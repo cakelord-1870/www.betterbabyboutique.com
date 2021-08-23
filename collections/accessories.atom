@@ -1,0 +1,1338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.betterbabyboutique.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.betterbabyboutique.com/collections/accessories.atom"/>
+  <title>Better Baby Boutique</title>
+  <updated>2021-07-22T11:47:38-04:00</updated>
+  <author>
+    <name>Better Baby Boutique</name>
+  </author>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/6609764319313</id>
+    <published>2021-07-22T11:47:38-04:00</published>
+    <updated>2021-07-22T11:47:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/zebra-baby-bucket-hat"/>
+    <title>Zebra Baby Bucket Hat</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/zebra-baby-bucket-hat.jpg?v=1626968850"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Introducing the fabulous Zebra Baby Bucket Hat! Modern, yet a true classic this beauty can be worn with so many styles. We adore the way this hat fits and looks. Keep her cool and trendy with the hat of the year. Bucket hats have stolen our hearts and this style is no exception. Add to cart, thank us later. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/6609764319313</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/6595651600465</id>
+    <published>2021-07-01T17:00:18-04:00</published>
+    <updated>2021-07-01T17:00:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/blair-baby-girl-shoe"/>
+    <title>Blair Baby Girl Shoe</title>
+    <s:type>Baby Shoes</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/blair-baby-girl-shoe.jpg?v=1625173203"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Shoes<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Introducing these chic and elegant first walker adorable slip ons, meet the Blair </span><span class="il" data-mce-fragment="1">Baby</span><span data-mce-fragment="1"> Girl Shoe. Stunning yet cozy and light. Perfect for all seasons. Composed of durable cloth providing comfort and protection. Slip on these cuties for the perfect touch of classy to her It Girl outfit. We are in love with these little cuties and know you will be as well! Enjoy. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Baby Girl Shoes</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/6595651600465</id>
+      <title>0-6 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/6595651600465</id>
+      <title>6-12 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/6595651600465</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/6581087043665</id>
+    <published>2021-05-28T07:37:39-04:00</published>
+    <updated>2021-05-28T07:37:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/raven-rattan-baby-purse"/>
+    <title>Raven Rattan Baby Purse</title>
+    <s:type>Baby Purse</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/raven-rattan-baby-purse.jpg?v=1622201850"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Purse<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The Raven Rattan Baby Purse is so fashionable and timeless you and your mini will simply adore this bag! Such a trendy design with an eye catching element that will live on. Bringing in all the boho chic feels our hearts could desire. There are just too many ways to style this little gem, and too many reasons to love her!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Toddler Girl Clothes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/6581087043665</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/6571277353041</id>
+    <published>2021-04-30T16:16:02-04:00</published>
+    <updated>2021-04-30T16:16:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/on-baby-sunglasses"/>
+    <title>On Baby Sunglasses</title>
+    <s:type>Baby Sunglasses</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/on-baby-sunglasses.jpg?v=1619813755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Sunglasses<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">These chic everyday sunnies are the On Baby Sunglasses. We love the way these gender neutral sunglasses are a true classic. Style for brunch or play dates and your babe will look and feel the fashion icon they truly are. We believe you simply can’t go wrong with a trendy chic black pair of sunnies.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/6571277353041</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/6542536835153</id>
+    <published>2021-03-06T17:53:05-05:00</published>
+    <updated>2021-03-06T17:53:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/haven-reversible-baby-bonnet"/>
+    <title>Haven Reversible Baby Bonnet</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/haven-reversible-bonnet.jpg?v=1615071109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Oh the sweet Haven Reversible Baby Bonnet is finally here! This stunning bonnet is the perfect go to on so many levels. Stunning florals on one side and a timeless chic polka dot design on the other. Styling this cutie will be both a dream and a breeze! We are so excited to see this adorable bonnet on your babes. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/6542536835153</id>
+      <title>0-3 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/6542536835153</id>
+      <title>3-6 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/6542536835153</id>
+      <title>6-9 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/6542536835153</id>
+      <title>9-12 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/6542536835153</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/6542536835153</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/6542536835153</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/6536044281937</id>
+    <published>2021-02-25T21:48:11-05:00</published>
+    <updated>2021-02-25T21:48:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/all-that-baby-purse"/>
+    <title>All That Baby Purse</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/all-that-baby-purse.jpg?v=1614307676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div data-mce-fragment="1">This adorable All That Baby Purse lives up to her name! Absolutely stunning, functional and size adjustable honestly what’s not to love. Available in two must have colors. The perfect little accessory for your perfect fashionista. We are simply in love with this little handbag and know you and your mini will be too! </div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/6536044281937</id>
+      <title>Black</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/6536044281937</id>
+      <title>Camel</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4747962024017</id>
+    <published>2020-12-08T21:04:19-05:00</published>
+    <updated>2020-12-08T21:04:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/let-it-reign-baby-headband"/>
+    <title>Let It Reign Baby Headband</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/let-it-reign-baby-headband.jpg?v=1607479448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Oh the sweetness! Introducing the lovely Let It Reign Baby Headband. This beauty has all the makings of the perfect seasonal headband. Perfectly placed reindeer antlers will style your mini up with class. Adorned with a flawless  flora arrangement, her hair do will surely take first place. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4747962024017</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4714883645521</id>
+    <published>2020-10-20T14:52:12-04:00</published>
+    <updated>2020-10-20T14:52:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/single-pom-knitted-baby-hat"/>
+    <title>Single Pom Knitted Baby Hat</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/single-pom-baby-hat-red.jpg?v=1603219933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This knitted cutie pie is sleek and adorable. Keep their little ears and head wrapped up in style! This single Pom Baby Hat is ideal for chilly nights out, as well as keeping chic and cute during the day. We just know your mini will love the way they feel and you the way they look. Gender neutral and easy to style, they are a seasonal must have!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4714883645521</id>
+      <title>Black</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4714883645521</id>
+      <title>Red</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4714883645521</id>
+      <title>Ivory</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4687095136337</id>
+    <published>2020-09-10T13:48:17-04:00</published>
+    <updated>2020-09-10T13:48:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/loves-me-baby-sunglasses"/>
+    <title>Loves Me Baby Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/loves-me-baby-sunglasses-black.jpg?v=1599760099"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">These beauties are sleek, stylish and sassy! Meet the chic Loves Me Baby </span><span class="il" data-mce-fragment="1">Sunglasses</span><span data-mce-fragment="1">. These cuties will not only protect your mini fashionista but keep her looking fresh and trendy. Available in several color options match her look with her sunnies and prepare to be admired!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4687095136337</id>
+      <title>Brown</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4687095136337</id>
+      <title>Black</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4687095136337</id>
+      <title>Teal</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4687095136337</id>
+      <title>Ivory</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4687095136337</id>
+      <title>Pink</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4673190756433</id>
+    <published>2020-08-18T15:05:37-04:00</published>
+    <updated>2020-08-18T15:05:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/knitted-baby-girl-socks"/>
+    <title>Knitted Baby Girl Socks</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/knitted-baby-girl-socks.jpg?v=1597777538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Hello vintage cutie! Giving us all the classic classy feels are these adorable Knitted Baby Girl Socks. With their soft girly design and perfectly placed bow, they just couldn’t be more perfect. Ideal for any outing as they are comfortable and breathable your mini will look as great as she feels. Style with just about anything and be certain she will steal a few hearts on your outing! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Baby Socks</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4673190756433</id>
+      <title>3-6 Months / White</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4673190756433</id>
+      <title>3-6 Months / Khaki</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4673190756433</id>
+      <title>6-9 Months / White</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4673190756433</id>
+      <title>6-9 Months / Khaki</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4673190756433</id>
+      <title>9-12 Months / White</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4673190756433</id>
+      <title>9-12 Months / Khaki</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4673190756433</id>
+      <title>12-16 Months / White</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4673190756433</id>
+      <title>12-16 Months / Khaki</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4673190756433</id>
+      <title>16-20 Months / White</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4673190756433</id>
+      <title>16-20 Months / Khaki</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4673190756433</id>
+      <title>20-24 Months / White</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4673190756433</id>
+      <title>20-24 Months / Khaki</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4673190756433</id>
+      <title>2T / White</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4673190756433</id>
+      <title>2T / Khaki</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4673190756433</id>
+      <title>3T / White</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4673190756433</id>
+      <title>3T / Khaki</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4641896595537</id>
+    <published>2020-06-27T11:00:55-04:00</published>
+    <updated>2020-06-27T11:00:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/tribal-reversible-baby-bib"/>
+    <title>Tribal Reversible Baby Bib</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/tribal-reversible-baby-bib.jpg?v=1593270081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>The sweetest bibs we ever did see! Introducing the Reversible Bibs. These 100% cotton linen bibs are self tying, making them as fitting as you desire. Easy on the eyes and durable. So soft your mini won’t mind wearing them, over clothes or on their delicate skin. We just know you will adore these baby bibs as much as we do, and we are excited to bring them to you! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Baby Bibs</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4641896595537</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4641896333393</id>
+    <published>2020-06-27T10:59:44-04:00</published>
+    <updated>2020-06-27T10:59:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/checkmate-reversible-baby-bib"/>
+    <title>Checkmate Reversible Baby Bib</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/checkmate-reversible-baby-bib.jpg?v=1601771444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>The sweetest bibs we ever did see! Introducing the Reversible Bibs. These 100% cotton linen bibs are self tying, making them as fitting as you desire. Easy on the eyes and durable. So soft your mini won’t mind wearing them, over clothes or on their delicate skin. We just know you will adore these baby bibs as much as we do, and we are excited to bring them to you! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Baby Bibs</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4641896333393</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4641896235089</id>
+    <published>2020-06-27T10:59:15-04:00</published>
+    <updated>2020-06-27T10:59:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/floral-reversible-baby-bib"/>
+    <title>Floral Reversible Baby Bib</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/floral-reversible-baby-bib.jpg?v=1593269956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>The sweetest bibs we ever did see! Introducing the Reversible Bibs. These 100% cotton linen bibs are self tying, making them as fitting as you desire. Easy on the eyes and durable. So soft your mini won’t mind wearing them, over clothes or on their delicate skin. We just know you will adore these baby bibs as much as we do, and we are excited to bring them to you! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Baby Bibs</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4641896235089</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4638284841041</id>
+    <published>2020-06-23T17:41:49-04:00</published>
+    <updated>2020-06-23T17:41:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/floral-love-baby-headband"/>
+    <title>Floral Love Baby Headband</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/floral-love-baby-headband-pink.jpg?v=1592956458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>The sweetest three-piece combo, these Floral Love Baby Headbands are everything. These adorable pieces are on a nylon band, keeping your mini feeling so comfy and looking her best. Headbands are a much loved accessory and this trio is a must have! Perfect for any outfit these beauties will sass up her already gorgeous ensemble. See for yourself what we are raving about with these cuties! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4638284841041</id>
+      <title>Pink</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4638284841041</id>
+      <title>Green</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4603508752465</id>
+    <published>2020-05-19T17:36:42-04:00</published>
+    <updated>2020-05-19T17:36:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/werk-it-baby-sunglasses"/>
+    <title>Werk It Baby Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/werk-it-baby-sunglasses.jpg?v=1589924314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>Fun, chic, trendy and protective! All words we want to hear when searching sunnies, and these adorable Werk It Baby Sunglasses check all boxes above. Fabulous mini sized shades for your growing fashion tots. These toddler sunnies will surely make their way to favorites in no time. Don’t just take our word for it, check them out for yourself! </div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4603508752465</id>
+      <title>Tortoise</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4603508752465</id>
+      <title>Black</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4585769467985</id>
+    <published>2020-05-04T17:16:53-04:00</published>
+    <updated>2020-05-04T17:16:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/cat-eye-baby-girl-sunglasses"/>
+    <title>Cat Eye Baby Girl Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/cat-eye-baby-sunglasses-tortoise.jpg?v=1588627353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>These beauties are sure to be a winner in your book as well as your minis. Keep her safe from the sun and looking fabulous. These chic </span><span class="il">Cat</span><span> </span><span class="il">Eye</span><span> Baby Girl Sunglasses are sure to become a favorite. With flawless design and a gorgeous color what’s not to love?</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4585769467985</id>
+      <title>Tortoise</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4585769467985</id>
+      <title>Pink</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4542159650897</id>
+    <published>2020-04-01T12:52:16-04:00</published>
+    <updated>2020-04-01T12:52:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/bunny-ears-baby-hat"/>
+    <title>Bunny Ears Baby Hat</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/bunny-ears-baby-hat.jpg?v=1585764560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>These adorable little bunny </span><span class="il">ears</span><span> are absolutely darling. The perfect photo prop for a little extra aww factor. We are certain your mini will rock these little </span><span class="il">ears</span><span> better than you could have imagined. Ideal for Easter, but why limit your babe to just one season when these Bunny </span><span class="il">Ears</span><span> Baby Hats are a trendy look that can be styled year round! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Easter</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4542159650897</id>
+      <title>Gray</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4532252835921</id>
+    <published>2020-03-19T21:07:12-04:00</published>
+    <updated>2020-03-19T21:07:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/total-babe-baby-sunglasses"/>
+    <title>Total Babe Baby Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/total-babe-baby-sunglasses-tortoise.jpg?v=1584666586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>She will look like the total boss babe she is in these gorgeous Total Babe Sunnies, the cutest baby sunglasses! Accessories are a must when your mini is a complete fashionista, and these adorable baby girl sunglasses are ideal. Keep her eyes protected and fabulous. Available in multiple colors to match any outfit on any given day. We are obsessing over these beauties and once you get your hands on them you will understand why! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4532252835921</id>
+      <title>Tortoise</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4532252835921</id>
+      <title>Black</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4532252835921</id>
+      <title>Nude</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4522367123537</id>
+    <published>2020-03-04T17:57:29-05:00</published>
+    <updated>2020-03-04T17:57:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/two-little-piggies-baby-bow-set"/>
+    <title>Two Little Piggies Baby Bow Set</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/two-little-piggies-bow-set-blue-floral.jpg?v=1583363281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>This adorable little piggies set is trendy, beautiful and affordable! As moms we can be sure our gorgeous yet not always careful little babes are bound to lose a hair bow here and there. We hear ya! So introducing the adorable Two Little Piggies Bow Set at a price you will love. Two medium sized bows your mini will look fabulous in! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4522367123537</id>
+      <title>White</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4522367123537</id>
+      <title>Blue Floral</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4522367123537</id>
+      <title>Pink Floral</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4496813752401</id>
+    <published>2020-02-04T13:18:59-05:00</published>
+    <updated>2020-02-04T13:18:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/knockout-pout-baby-purse"/>
+    <title>Knockout Pout Baby Purse</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/knockout-pout-baby-purse.jpg?v=1580840990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Chic, sassy, and fashion forward this unique baby girl purse will surely be a favorite! Just like her, the Knockout Pout Baby Purse has sparkle and character. The gold strap chain is fun and timeless. We are certain you and your mini will both love this adorable little baby girl purse as much as we do. Matching and adding flare to all her already perfectly curated outfits. This little piece is a must have! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4496813752401</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4435874381905</id>
+    <published>2019-12-11T10:16:16-05:00</published>
+    <updated>2019-12-11T10:16:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/knitted-baby-hat-with-poms"/>
+    <title>Knitted Baby Hat With Poms</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/knitted-baby-hats-with-poms.jpg?v=1576079449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Sleek, warm and trendy! This gorgeous Knitted Baby Hat With Poms are perfect for keeping your mini stylish and warm. They are gender neutral, classic and cozy. These little cuties will go with just about everything and because they are available in multiple color options the outfit combinations are endless. We are certain you and your little one will adore this sweet little hat equally! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4435874381905</id>
+      <title>Red</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4435874381905</id>
+      <title>Tan</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4435874381905</id>
+      <title>Black</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4124471820330</id>
+    <published>2019-09-25T12:34:13-04:00</published>
+    <updated>2019-09-25T12:34:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/ready-set-bow-baby-headband"/>
+    <title>Ready Set Bow Baby Headband</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/ready-set-bow-baby-headband.jpg?v=1569431528"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>These gorgeous, go with everything headbands are perfect for your everyday fashionista. Styled up or down they will surely add sass to her ensemble. Available in a variety of colors to match your babes perfectly curated wardrobe, we hope you love our Ready Set Bow Baby Headband as much as we do! Fashion is head to toe after all and we are just happy to be a part of it all.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4124471820330</id>
+      <title>Orange</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4124471820330</id>
+      <title>Green</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4124471820330</id>
+      <title>Navy</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4124471820330</id>
+      <title>Black</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3934007853098</id>
+    <published>2019-07-23T12:54:20-04:00</published>
+    <updated>2019-07-23T12:54:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/sweet-and-bow-baby-bow"/>
+    <title>Sweet And Bow Baby Bow</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/sweet-and-bow-baby-bow-pink.jpg?v=1563900941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">Our Sweet And Bow Baby Bow is the perfect Baby Accessory to any wardrobe! This large banded beaut is a comfortable and fashionable statement that will have all eyes on your little fashionista!<span> Simple elegance is the name of the game with this sweetness. </span>We love this little number and we're sure your little sunshine will too.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3934007853098</id>
+      <title>Pink</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3934007853098</id>
+      <title>Khaki</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3933687742506</id>
+    <published>2019-07-22T17:06:29-04:00</published>
+    <updated>2019-07-22T17:06:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/dazzled-and-tassels-baby-purse"/>
+    <title>Dazzled And Tassels Baby Purse</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/dazzled-and-tassled-baby-purse-pink.jpg?v=1618368214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>Hello you pretty little thing you! Our Dazzled and Tassels Baby Purse is chic and stylish, just like your mini. We simply adore this little handbag, with all its beautiful designs. Adjustable shoulder strap allows you to keep the length at optimal size for your little diva. Tassels will flow and dance alongside her, as you will soak up the beauty of these two! She will adore her little baby purse for all the trinkets she can tuck away in it, and will adore the way she looks. It’s a win win all around. </div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3933687742506</id>
+      <title>Pink</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3933687742506</id>
+      <title>Black</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3933687742506</id>
+      <title>Mustard</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3933687742506</id>
+      <title>Green</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3933687742506</id>
+      <title>Blue</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926214672426</id>
+    <published>2019-07-09T21:48:04-04:00</published>
+    <updated>2019-07-09T21:48:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/wooden-baby-camera-accessory"/>
+    <title>Wooden Baby Camera Accessory</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p146_i1_w768.jpg?v=1562723311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="color:rgb(34,34,34);">This super trendy Wooden Baby Camera Accessory is the absolute cutest. Give your child the tools to use their imagination while you snap away! We absolutely love this sweet little keepsake toy and and we know you will too. This wooden baby camera is designed with a small peep hole to let sweet baby peek through. It comes with a woven strap for easy carrying! Get yours now and start setting the trend!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Out of Stock</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926214672426</id>
+      <title>Rose</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>SKU--146</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926214672426</id>
+      <title>Aqua</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>SKU--146</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926214672426</id>
+      <title>Stone</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>SKU--146</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

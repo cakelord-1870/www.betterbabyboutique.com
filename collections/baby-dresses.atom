@@ -1,0 +1,2088 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.betterbabyboutique.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.betterbabyboutique.com/collections/baby-dresses.atom"/>
+  <title>Better Baby Boutique</title>
+  <updated>2021-05-28T07:28:16-04:00</updated>
+  <author>
+    <name>Better Baby Boutique</name>
+  </author>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/6581079998545</id>
+    <published>2021-05-28T07:28:16-04:00</published>
+    <updated>2021-05-28T07:28:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/grow-wildly-baby-girl-dress"/>
+    <title>Grow Wildly Baby Girl Dress</title>
+    <s:type>Baby Girl Outfits</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/grow-wildly-baby-girl-dress.jpg?v=1622201277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Girl Outfits<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Summer in a dress! This sweet Grow Wildly Baby Girl Dress is everything. So cozy and airy, your mini is sure to adore this dress. Self tie shoulder straps for her best fit. The floral pattern is eye catching and just makes the prettiest little go to outfit. Sure to win hearts time and time again with every outing. Most importantly this dress is cozy and that will be the reason you and your mini love it the most! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Dresses</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Toddler Girl Clothes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/6581079998545</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/6581079998545</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/6581079998545</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/6581079998545</id>
+      <title>2T</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/6581079998545</id>
+      <title>3T</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/6581079998545</id>
+      <title>4T</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4785545543761</id>
+    <published>2021-02-05T12:49:11-05:00</published>
+    <updated>2021-02-05T12:49:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/fawn-bit-baby-girl-dress"/>
+    <title>Fawn Bit Baby Girl Dress</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/fawn-bit-baby-girl-dress.jpg?v=1612547331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Excited to introduce this sweet and earthy colored beauty, the Fawn Bit Baby Girl Dress. Perfect for any and every outing. Gorgeous as is or style with jean jacket for a more edgy look. We love how versatile this cutie is. Criss crosses on the back so your babe will have her best possible fit. We are certain you and your fashionista will adore this little number. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Dresses</s:tag>
+    <s:tag>Baby Girl Outfits</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Toddler Girl Clothes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4785545543761</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4785545543761</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4785545543761</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4785545543761</id>
+      <title>2T</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4785545543761</id>
+      <title>3T</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4785545543761</id>
+      <title>4T</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4783902556241</id>
+    <published>2021-02-02T15:56:55-05:00</published>
+    <updated>2021-02-02T15:56:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/miss-sass-baby-girl-dress"/>
+    <title>Miss Sass Baby Girl Dress</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/miss-sass-baby-girl-dress.jpg?v=1612299387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div dir="ltr" data-mce-fragment="1">The dress you simply can’t help but LOVE! This vintage inspired beauty is the Miss Sass Baby Girl Dress. We are head over tutus for this little gem. Classic and timeless, this white and black dress is one you and your babe will enjoy year round. Style with denim jacket for an edgy look or simply as is for a girly style everyone will adore! </div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Dresses</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Toddler Girl Clothes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4783902556241</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4783902556241</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4783902556241</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4783902556241</id>
+      <title>2T</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4783902556241</id>
+      <title>3T</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4783902556241</id>
+      <title>4T</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4783902556241</id>
+      <title>5T</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4776410644561</id>
+    <published>2021-01-19T14:39:13-05:00</published>
+    <updated>2021-01-19T14:39:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/love-dotty-baby-girl-dress"/>
+    <title>Love Dotty Baby Girl Dress</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/love-dotty-baby-girl-dress.jpg?v=1611085138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div data-mce-fragment="1">This beauty is love at first sight! So excited to introduce the Love Dotty Baby Girl Dress. So much flare and class your mini will look and feel her best! Literally dressed to impress all the while being as cozy as can be. Soft to the touch, easy on the eyes and designed for perfection. We are certain you will adore this darling little dress as much as we do! </div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Dresses</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Toddler Girl Clothes</s:tag>
+    <s:tag>Valentines Day</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4776410644561</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4776410644561</id>
+      <title>2T</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4776410644561</id>
+      <title>3T</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4776410644561</id>
+      <title>4T</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4776410644561</id>
+      <title>5T</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4710649757777</id>
+    <published>2020-10-12T15:16:20-04:00</published>
+    <updated>2020-10-12T15:16:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/this-line-baby-dress"/>
+    <title>This Line Baby Dress</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/thin-line-baby-dress.jpg?v=1602530182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">All the sassy your fashionista needs in this stylish Thin Line Baby Dress. Introducing this cutie and we couldn’t be more excited about this dress in general. Modern yet timeless thin stripes adorn this little number to perfection. This fitted little piece of heaven is gorgeous for day to evening without question. Style with slides for lunch and denim jacket and boots for dinner. We are certain you and your fashionista will adore styling this outfit time and time again. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Dresses</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Toddler Girl Clothes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4710649757777</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4710649757777</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4710649757777</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4710649757777</id>
+      <title>2T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4710649757777</id>
+      <title>3T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4710649757777</id>
+      <title>4T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4659729334353</id>
+    <published>2020-07-24T13:27:17-04:00</published>
+    <updated>2020-07-24T13:27:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/bloom-boom-baby-girl-dress"/>
+    <title>Bloom Boom Baby Girl Dress</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/bloom-boom-baby-girl-dress.jpg?v=1595611638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Summer dress code is always dress to impress. The sweet floral Bloom Boom Baby Girl Dress does just that! Designed with a gorgeous garden views and always trending flutter sleeve shoulder straps this beauty is a winner. We love that the shoulder straps are adjustable giving your mini the best fit possible. Down to earth colors and out of this world style! Don’t miss out on this must have dress. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Dresses</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Toddler Girl Clothes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4659729334353</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4659729334353</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4659729334353</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4659729334353</id>
+      <title>2T</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4659729334353</id>
+      <title>3T</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4659729334353</id>
+      <title>4T</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4659729334353</id>
+      <title>5T</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4623582625873</id>
+    <published>2020-06-09T13:57:23-04:00</published>
+    <updated>2020-06-09T13:57:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/over-the-rainbow-baby-dress"/>
+    <title>Over The Rainbow Baby Dress</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/over-the-rainbow-baby-dress-front.jpg?v=1591725572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>This super sweet overall dress is perfect for any occasion. Light and airy, your mini diva will feel and look her best. Ideal for warm days, but so versatile that pairing a sweet warmer piece under this cutie will be of no consequence. We adore the trendy details of this adorable little dress. With two shoulder adjustable options your fashionista will get her best possible fit. We can only hope you love this Over The Rainbow Baby Dress as much as we do! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Dresses</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Toddler Girl Clothes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4623582625873</id>
+      <title>6-9 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4623582625873</id>
+      <title>9-12 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4623582625873</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4623582625873</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4623582625873</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4623582625873</id>
+      <title>2T</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4623582625873</id>
+      <title>3T</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4589055213649</id>
+    <published>2020-05-07T19:52:37-04:00</published>
+    <updated>2020-05-07T19:52:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/angel-lace-baby-girl-dress"/>
+    <title>Angel Lace Baby Girl Dress</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/angel-lace-baby-girl-dress.jpg?v=1588895754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Sweetness overload just about covers it! This darling Angel Lace Baby Girl Dress is so dreamy someone might have to pinch us. We can all use a gorgeous yet simple all white dress in our wardrobe and your mini will look running in this one. Self tie shoulder straps allows her to receive the best possible fit. Delicate and perfect lace adorns the lower portion of this dress for some details that are sure to please. We can’t get enough of this little number and just know you and your mini will adore it too.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Dresses</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Toddler Girl Clothes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4589055213649</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4589055213649</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4589055213649</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4589055213649</id>
+      <title>2T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4589055213649</id>
+      <title>3T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4589055213649</id>
+      <title>4T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4546694873169</id>
+    <published>2020-04-03T12:25:32-04:00</published>
+    <updated>2020-04-03T12:25:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/la-la-land-baby-girl-dress"/>
+    <title>La La Land Baby Girl Dress</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/la-la-land-baby-girl-dress.jpg?v=1585931208"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>This heavenly little dress is a classic! Pinstripes of gorgeous khaki couldn’t have dreamed up a sweeter summer dress. This little cutie does also come with matching self tie head wrap! Did we mention it also has pockets? Beautiful, functional, breathable! What’s not to love about this </span><span class="il">La</span><span> </span><span class="il">La</span><span> Land Baby Girl Dress? We surely couldn’t think of anything.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Dresses</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Toddler Girl Clothes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4546694873169</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4546694873169</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4546694873169</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4546694873169</id>
+      <title>2T</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4546694873169</id>
+      <title>3T</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4546694873169</id>
+      <title>4T</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4540922789969</id>
+    <published>2020-03-31T12:02:06-04:00</published>
+    <updated>2020-03-31T12:02:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/dress-me-up-baby-girl-dress"/>
+    <title>Dress Me Up Baby Girl Dress</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/dress-up-baby-girl-dress.jpg?v=1585670617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>This timeless little beauty is the perfect summer dress. As long as the weather is sunny and bright this will be a winner for sure. Gorgeous self tie straps allot her to have the best possible fit. The pinstripe pattern is a chic a classic design that will always be in style. Heart shape chest design adds some flare to the overall look of this cutie. We are certain you and your mini will love this Dress Me Up Baby Girl Dress.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Dresses</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Toddler Girl Clothes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4540922789969</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4540922789969</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4540922789969</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4540922789969</id>
+      <title>2T</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4540922789969</id>
+      <title>3T</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4540922789969</id>
+      <title>4T</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4540922789969</id>
+      <title>5T</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4522366304337</id>
+    <published>2020-03-04T17:57:29-05:00</published>
+    <updated>2020-03-04T17:57:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/shes-a-gem-baby-girl-dress"/>
+    <title>Shes A Gem Baby Girl Dress</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/shes-a-gem-baby-girl-dress.jpg?v=1583362944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>This little treasure is a corduroy dream! Soft to the touch, easy on the eyes and style for days. With adjustable shoulder straps your mini will always get her vest possible fit, making this cutie a long lasting wardrobe favorite. The She’s A Gem Baby Girl Dress is the sweetest pistachio color. We are certain you will fall in love with this little number.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Dresses</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Toddler Girl Clothes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4522366304337</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4522366304337</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4522366304337</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4522366304337</id>
+      <title>2T</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4522366304337</id>
+      <title>3T</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4522366304337</id>
+      <title>4T</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4522366304337</id>
+      <title>5T</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4496811393105</id>
+    <published>2020-02-04T13:18:59-05:00</published>
+    <updated>2020-02-04T13:18:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/fetching-rose-baby-dress-and-wrap"/>
+    <title>Fetching Rose Baby Dress And Wrap</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/fetching-rose-baby-dress-and-wrap.jpg?v=1580840628"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>This charming little number is absolutely everything! The Fetching Rose Baby Dress and Wrap is designed with gorgeous florals on a peachy nude backdrop and comes with matching head wrap. Stunning to say the least. Heart shaped faux pockets add eye catching design to the front of this dress. The halter fit can assure your mini fashionista will receive the best possible fit. With so many reasons to love this cutie we are sure you won’t want to miss out.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Dresses</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Valentines Day</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4496811393105</id>
+      <title>3-6 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4496811393105</id>
+      <title>6-9 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4496811393105</id>
+      <title>9-12 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4496811393105</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4496811393105</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4485587927121</id>
+    <published>2020-01-21T13:29:06-05:00</published>
+    <updated>2020-01-21T13:29:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/haltered-love-baby-dress"/>
+    <title>Haltered Love Baby Dress</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/haltered-love-baby-dress.jpg?v=1579655320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Ohh la la just about covers it! The Haltered Love Baby Girl Romper has a ruffled, skirted design that has us wanting this in mommas size too. Super chic and classy, this skirted romper ties around your minis neck giving way for the best possible fit. Your little one will love the way she feels and you will simply adore the way she looks. Trading comfort for style isn’t an option here, why settle when you can have the best of both worlds!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Dresses</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Toddler Girl Clothes</s:tag>
+    <s:tag>Valentines Day</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4485587927121</id>
+      <title>6-9 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4485587927121</id>
+      <title>9-12 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4485587927121</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4485587927121</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4485587927121</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4485587927121</id>
+      <title>2T</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4485378572369</id>
+    <published>2020-01-21T13:29:06-05:00</published>
+    <updated>2020-01-21T13:29:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/corduroy-overall-baby-dress"/>
+    <title>Corduroy Overall Baby Dress</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/corduroy-baby-overall-dress.jpg?v=1579631768"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>This sleek, chic and adorable little number will have Cupid himself falling for your mini! Stylish, adjustable, cozy and trendy. Your little one will have room to grow with this perfect little Corduroy Overall Baby Dress. We love a good corduroy but the pink really does complete this fashion forward piece. Wether brunching it with the family or play dates with friends, this dress will be a winner. So comfortable your mini will run the play ground like the runway. We hope you love this little ensemble as much as we do! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Dresses</s:tag>
+    <s:tag>Baby Girl Outfits</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Toddler Girl Clothes</s:tag>
+    <s:tag>Valentines Day</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4485378572369</id>
+      <title>6-9 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4485378572369</id>
+      <title>9-12 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4485378572369</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4485378572369</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4485378572369</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4485378572369</id>
+      <title>2T</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4485378572369</id>
+      <title>3T</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4485378572369</id>
+      <title>4T</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4485378572369</id>
+      <title>5T</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926191407146</id>
+    <published>2019-11-20T18:47:00-05:00</published>
+    <updated>2019-11-20T18:47:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/american-honey-baby-girl-dress"/>
+    <title>American Honey Baby Girl Dress</title>
+    <s:type>Baby Girl Outfits</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/american-honey-baby-dress-and-head-wrap-red_b4bb1f85-7542-4a82-9ba6-91aab9e6b77e.jpg?v=1574303185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Girl Outfits<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hello gorgeous! Honestly an absolute must if you ask us. This dress and head wrap combo is chic, stylish and timeless. We love every little detail. Shoulder straps allow your babe to have the best fit possible while adding some sass to those perfect little shoulders. The gorgeous button down look is everything, effortlessly fabulous. Last but not least let’s talk about this golden honey back drop, stunning! Yes loves we wish this American Honey Baby Girl Dress was available in our size, but grab it for your babe while it lasts!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Dresses</s:tag>
+    <s:tag>Baby Girl Outfits</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Toddler Girl Clothes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926191407146</id>
+      <title>12-16 Months / Yellow</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>SKU--446</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926191407146</id>
+      <title>12-16 Months / Red</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>SKU--446</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926191407146</id>
+      <title>16-20 Months / Yellow</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>SKU--446</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926191407146</id>
+      <title>16-20 Months / Red</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>SKU--446</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926191407146</id>
+      <title>20-24 Months / Yellow</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>SKU--446</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926191407146</id>
+      <title>20-24 Months / Red</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>SKU--446</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926191407146</id>
+      <title>2T / Yellow</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>SKU--446</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926191407146</id>
+      <title>2T / Red</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>SKU--446</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926191407146</id>
+      <title>3T / Yellow</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>SKU--446</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926191407146</id>
+      <title>3T / Red</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>SKU--446</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926191407146</id>
+      <title>4T / Yellow</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>SKU--446</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926191407146</id>
+      <title>4T / Red</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>SKU--446</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926191407146</id>
+      <title>5T / Yellow</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>SKU--446</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926191407146</id>
+      <title>5T / Red</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>SKU--446</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4379212808273</id>
+    <published>2019-11-15T12:16:09-05:00</published>
+    <updated>2019-11-15T12:16:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/checking-in-baby-dress"/>
+    <title>Checking In Baby Dress</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/checking-in-baby-dress.jpg?v=1573838625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Style is just the beginning for this little gem! She’s got style and grace, as comfortable as she is beautiful. The Checking In Baby Dress will surely have everyone checking out your little fashionista! Gorgeous pattern, flutter like sleeves, accent bow on the backside need we say more? Your babe will look and feel amazing in this chic and timeless dress. We sure give it an A+ and know you will also adore this new addition to her wardrobe.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Dresses</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Toddler Girl Clothes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4379212808273</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4379212808273</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4379212808273</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4379212808273</id>
+      <title>2T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4379212808273</id>
+      <title>3T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4379212808273</id>
+      <title>4T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4379202879569</id>
+    <published>2019-11-15T12:16:09-05:00</published>
+    <updated>2019-11-15T12:16:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/all-aboard-baby-dress"/>
+    <title>All Aboard Baby Dress</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/all-aboard-baby-dress.jpg?v=1573838390"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>All aboard, let’s take a ride to the North Pole! This sweet little dress has all the winter feels and Christmas spirit we could ask for. Load up this season with affordable and adorable fashions. This long sleeve baby girl dress is sure to deliver some holiday cheer. Can you see why this little gem earned the name All Aboard Baby Dress? She’s loaded with style, merriment and joy!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Dresses</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Toddler Girl Clothes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4379202879569</id>
+      <title>6-9 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4379202879569</id>
+      <title>9-12 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4379202879569</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4379202879569</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4379202879569</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4379202879569</id>
+      <title>2T</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4379202879569</id>
+      <title>3T</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4379202879569</id>
+      <title>4T</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4372498612305</id>
+    <published>2019-11-13T14:32:56-05:00</published>
+    <updated>2019-11-13T14:32:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/holiday-cheer-baby-dress"/>
+    <title>Holiday Cheer Baby Dress</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/holiday-cheer-baby-dress.jpg?v=1573673797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>This season inspired dress is one that will surely put a smile on your face. Designed with a beautiful winter theme, soft to the touch, adjustable shoulder straps this beauty checks off all our boxes for the perfect dress! Ruffles adorn the sleeves and a lovely red bow does the same on the back side. We are certain you will treasure the way she looks in this beautiful Holiday Cheer Baby Dress.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Dresses</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Toddler Girl Clothes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4372498612305</id>
+      <title>6-9 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4372498612305</id>
+      <title>9-12 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4372498612305</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4372498612305</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4372498612305</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4372498612305</id>
+      <title>2T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4353665826897</id>
+    <published>2019-11-06T16:14:33-05:00</published>
+    <updated>2019-11-06T16:14:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/dreamed-up-baby-girl-dress"/>
+    <title>Dreamed Up Baby Girl Dress</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/dreamed-up-baby-girl-dress.jpg?v=1573076657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Say hello to this little charmer! We simply can’t get over how much sweetness the Charmed Baby Girl Dress possesses. Ruffled and a soft pucker design give this cutie and vintage fashion forward look. We are certain you and your mini will thoroughly enjoy this darling little dress. Perfect for brunches, date nights and Everything in between. Soft to the touch so the little fashionista won’t have any complaints wearing her new favorite dress. Simply add this beauty to her wardrobe rotation and you will both be glad you did. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Dresses</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Toddler Girl Clothes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4353665826897</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4353665826897</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4353665826897</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4353665826897</id>
+      <title>2T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4353665826897</id>
+      <title>3T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4353665826897</id>
+      <title>4T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4353665826897</id>
+      <title>5T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4344982241361</id>
+    <published>2019-11-02T08:45:10-04:00</published>
+    <updated>2019-11-02T08:45:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/suspender-baby-dress"/>
+    <title>Suspender Baby Dress</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/suspender-baby-dress.jpg?v=1572698883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>We know the only real question you have is does this come in your size, right? This fabulous and vibrant Suspender Baby Dress is a holly jolly little umber you and your mini will live for! Ideal for the season and quite honestly any given day of the year! Outfit repeat will definitely be in your immediate future, and how could it not be. Style with different tops and it will feel like a new piece every time. We are certain you will both absolutely adore this outfit and are so excited to bring it to you! Perfect for the Christmas and holiday season!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Dresses</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Toddler Girl Clothes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4344982241361</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4344982241361</id>
+      <title>2T</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4344982241361</id>
+      <title>3T</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4344982241361</id>
+      <title>4T</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4344982241361</id>
+      <title>5T</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4342419816529</id>
+    <published>2019-11-01T14:54:42-04:00</published>
+    <updated>2019-11-01T14:54:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/winter-wonderland-baby-romper-and-bow"/>
+    <title>Winter Wonderland Baby Romper And Bow</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/winter-wonderland-baby-romper-and-bow.jpg?v=1572634762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span><span>This seasonal outfit is an absolute delight, easy on the eyes and so pretty and festive, the perfect Holiday baby romper! We love a good skirted romper is this one surely won us over. Button clasps help make diaper changes as easy as possible and we always are good with that. Lace will adorn those sweet little shoulders of hers as she slips into this Winter Wonderland Baby Romper and Bow. Santa might just have to add your name to his nice list this Christmas for snagging this Holiday cutie up for your mini fashionista!</span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Dresses</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4342419816529</id>
+      <title>3-6 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4342419816529</id>
+      <title>6-9 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4342419816529</id>
+      <title>9-12 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4342419816529</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4342419816529</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4342419816529</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4342419816529</id>
+      <title>2T</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4338380341329</id>
+    <published>2019-10-31T16:31:22-04:00</published>
+    <updated>2019-10-31T16:31:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/plaid-baby-girl-dress"/>
+    <title>Plaid Baby Girl Dress</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/plaid-baby-girl-dress.jpg?v=1572553984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Let flannel reign! This gorgeously designed dress is a must have. Beautiful plaid pattern, Peter Pan collar, ruffle accent on the sleeves and need we say more? Your mini fashionista will certainly steal a few hearts as struts around in style. We couldn’t be more thrilled with this fabulous Plaid Baby Girl Dress and we just know you will feel the same way. Enjoy! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Dresses</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4338380341329</id>
+      <title>3-6 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4338380341329</id>
+      <title>6-9 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4338380341329</id>
+      <title>9-12 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4338380341329</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4338380341329</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4338380341329</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4295598506065</id>
+    <published>2019-10-21T15:16:06-04:00</published>
+    <updated>2019-10-21T15:16:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/over-it-denim-baby-girl-dress"/>
+    <title>Over It Denim Baby Girl Dress</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/over-it-denim-baby-dress.jpg?v=1571685545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>This little overall dress is an absolute stunner! Gorgeous gorgeous gorgeous. We just adore denim and this chic and trendy little number is one of the many reasons why. Style in a classic vintage way or uptown chic. The versatility on this cutie is endless. Straps have two sizing options so your mini can grow with it. This fabulous Over It Denim Baby Dress is a must have, but we are pretty sure you already know that! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Dresses</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Toddler Girl Clothes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4295598506065</id>
+      <title>6-9 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4295598506065</id>
+      <title>9-12 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4295598506065</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4295598506065</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4295598506065</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4295598506065</id>
+      <title>2T</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4295598506065</id>
+      <title>3T</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4295598506065</id>
+      <title>4T</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4285110845482</id>
+    <published>2019-10-17T14:30:06-04:00</published>
+    <updated>2019-10-17T14:30:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/graced-in-lace-baby-dress"/>
+    <title>Graced In Lace Baby Dress</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/laced-in-grace-baby-romper.jpg?v=1571337475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Goodness this is one sweet little dress! The Graced By Lace Baby Dress has charm for days. Simple, elegant and stylish. We love a good dress, and this one is so much more than that. Everyday fashion should be comfortable, trendy and comfy. Your mini will certainly be able to check all of these off. Adding this to her already perfectly curated wardrobe will be a decision you won’t regret. Ties across the back to give your babe the best possible fit. We just know you and your mini fashionista will adore this new addition!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Dresses</s:tag>
+    <s:tag>Toddler Girl Clothes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4285110845482</id>
+      <title>3-6 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4285110845482</id>
+      <title>6-9 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4285110845482</id>
+      <title>9-12 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4285110845482</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4285110845482</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4285110845482</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4285110845482</id>
+      <title>2T</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4267004133418</id>
+    <published>2019-10-16T16:56:08-04:00</published>
+    <updated>2019-10-16T16:56:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/button-down-baby-girl-dress"/>
+    <title>Button Down Baby Girl Dress</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/button-down-baby-girl-dress.jpg?v=1571259499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Need us to pinch you? No you don’t, this isn’t a dream. This gorgeous little midi dress is everything, we agree there! Faux buttons adorn this chic and stylish Button Down Baby Girl Dress. Cozy ribbed cotton will make her feel as good as she looks. So elegant and trendy, this will surely be a wardrobe fav. Style with a cute pair of sneakers or sandals for two different yet equally adorable looks. Take this cutie from day to evening wear without changing a thing! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Dresses</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Toddler Girl Clothes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4267004133418</id>
+      <title>12-16 Months / Green</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4267004133418</id>
+      <title>12-16 Months / Gray</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4267004133418</id>
+      <title>16-20 Months / Green</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4267004133418</id>
+      <title>16-20 Months / Gray</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4267004133418</id>
+      <title>20-24 Months / Green</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4267004133418</id>
+      <title>20-24 Months / Gray</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4267004133418</id>
+      <title>2T / Green</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4267004133418</id>
+      <title>2T / Gray</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4267004133418</id>
+      <title>3T / Green</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4267004133418</id>
+      <title>3T / Gray</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4267004133418</id>
+      <title>4T / Green</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4267004133418</id>
+      <title>4T / Gray</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4267004133418</id>
+      <title>5T / Green</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4267004133418</id>
+      <title>5T / Gray</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

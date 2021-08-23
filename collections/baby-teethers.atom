@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.betterbabyboutique.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.betterbabyboutique.com/collections/baby-teethers.atom"/>
+  <title>Better Baby Boutique</title>
+  <updated>2019-07-09T21:48:29-04:00</updated>
+  <author>
+    <name>Better Baby Boutique</name>
+  </author>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926215131178</id>
+    <published>2019-07-09T21:48:29-04:00</published>
+    <updated>2019-07-09T21:48:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/wooden-baby-teethers"/>
+    <title>Wooden Baby Teethers</title>
+    <s:type>Baby Teethers</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p138_i5_w768.jpg?v=1562723351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Teethers<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="color:rgb(34,34,34);">These high quality wooden baby teethers are sweet and adorable, perfectly fitted for your little ones tiny hands. They provide relief and make a trendy accessory. The are quickly becoming a very well known teething product because of its simplicity and effectiveness. We absolutely love them. We hope you love them as well.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Teethers</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926215131178</id>
+      <title>Pink</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--138</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926215131178</id>
+      <title>Black</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--138</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926215131178</id>
+      <title>Teal</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--138</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926215131178</id>
+      <title>Sage</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--138</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926215131178</id>
+      <title>Lavender</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--138</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926206513194</id>
+    <published>2019-07-09T21:39:10-04:00</published>
+    <updated>2019-07-09T21:39:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/teether-pacifier-clip"/>
+    <title>Teether Pacifier Clip</title>
+    <s:type>Baby Teethers</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p265_i1_w768.jpg?v=1562722784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Teethers<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is an adorable Teether &amp; Pacifier Clip that is not only cute but super functional! Doubling as teethers your little angel is set and ready to go in style. This wooden beauty is latex free and we are certain you and baby will love the feel of this holder. So bye bye dirty pacifiers, and no more lost binkies! Available in two colors but that doesn’t mean you should have to choose just one! </p><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Baby Teethers</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926206513194</id>
+      <title>Coral</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--265</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926206513194</id>
+      <title>Gray</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--265</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

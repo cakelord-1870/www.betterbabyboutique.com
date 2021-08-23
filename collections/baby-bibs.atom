@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.betterbabyboutique.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.betterbabyboutique.com/collections/baby-bibs.atom"/>
+  <title>Better Baby Boutique</title>
+  <updated>2020-06-27T11:00:55-04:00</updated>
+  <author>
+    <name>Better Baby Boutique</name>
+  </author>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4641896595537</id>
+    <published>2020-06-27T11:00:55-04:00</published>
+    <updated>2020-06-27T11:00:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/tribal-reversible-baby-bib"/>
+    <title>Tribal Reversible Baby Bib</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/tribal-reversible-baby-bib.jpg?v=1593270081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>The sweetest bibs we ever did see! Introducing the Reversible Bibs. These 100% cotton linen bibs are self tying, making them as fitting as you desire. Easy on the eyes and durable. So soft your mini won’t mind wearing them, over clothes or on their delicate skin. We just know you will adore these baby bibs as much as we do, and we are excited to bring them to you! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Baby Bibs</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4641896595537</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4641896333393</id>
+    <published>2020-06-27T10:59:44-04:00</published>
+    <updated>2020-06-27T10:59:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/checkmate-reversible-baby-bib"/>
+    <title>Checkmate Reversible Baby Bib</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/checkmate-reversible-baby-bib.jpg?v=1601771444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>The sweetest bibs we ever did see! Introducing the Reversible Bibs. These 100% cotton linen bibs are self tying, making them as fitting as you desire. Easy on the eyes and durable. So soft your mini won’t mind wearing them, over clothes or on their delicate skin. We just know you will adore these baby bibs as much as we do, and we are excited to bring them to you! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Baby Bibs</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4641896333393</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4641896235089</id>
+    <published>2020-06-27T10:59:15-04:00</published>
+    <updated>2020-06-27T10:59:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/floral-reversible-baby-bib"/>
+    <title>Floral Reversible Baby Bib</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/floral-reversible-baby-bib.jpg?v=1593269956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>The sweetest bibs we ever did see! Introducing the Reversible Bibs. These 100% cotton linen bibs are self tying, making them as fitting as you desire. Easy on the eyes and durable. So soft your mini won’t mind wearing them, over clothes or on their delicate skin. We just know you will adore these baby bibs as much as we do, and we are excited to bring them to you! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Baby Bibs</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4641896235089</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926216867882</id>
+    <published>2019-07-09T21:49:56-04:00</published>
+    <updated>2019-07-09T21:49:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/lovie-baby-bib"/>
+    <title>Lovie Baby Bib</title>
+    <s:type>Baby Bibs</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p106_i1_w768.jpg?v=1562723462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Bibs<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="color:rgb(34,34,34);">These fashion forward Lovie Baby Bibs are designed to keep baby trendy and stylish while teething. Let’s face it covering up that perfect outfit with a bib gets old. Try out these adorable bibs for outings and date nights. Chic, modish and comfortable your baby will look and feel amazing. The all cotton material is soft and fresh. We love them and are sure you will too!</span><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Bibs</s:tag>
+    <s:tag>Out of Stock</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926216867882</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>SKU-106</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926216802346</id>
+    <published>2019-07-09T21:49:55-04:00</published>
+    <updated>2019-07-09T21:49:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/oh-mickey-baby-bib"/>
+    <title>Oh Mickey Baby Bib</title>
+    <s:type>Baby Bibs</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p107_i1_w768.jpg?v=1562723459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Bibs<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="color:rgb(34,34,34);">These fashion forward Oh Mickey Baby Bibs are designed to keep baby trendy and stylish while teething. Teething isn’t fun, and all that drool makes for daily bib swapping and outfit cover ups. Try out these adorable bibs for outings and date nights. This comfortable bib will keep your baby feeling amazing. The all cotton material is soft and fresh. We love them and are sure you will too!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Bibs</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926216802346</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>SKU-107</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926216736810</id>
+    <published>2019-07-09T21:49:54-04:00</published>
+    <updated>2019-07-09T21:49:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/angel-baby-bib"/>
+    <title>Angel Baby Bib</title>
+    <s:type>Baby Bibs</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p108_i1_w768.jpg?v=1562723457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Bibs<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="color:rgb(34,34,34);">These all natural organic cotton Angel Baby Bibs are designed to keep baby trendy and stylish while the occasional drool. We all hate covering up that perfect outfit with bibs so try out these adorable darling baby bibs for outings and date nights. Chic and comfortable your baby will look and feel amazing. The all organic cotton material is soft and fresh. We love them, what’s not to love?</span><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Bibs</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926216736810</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU-108</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926216671274</id>
+    <published>2019-07-09T21:49:52-04:00</published>
+    <updated>2019-07-09T21:49:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/flower-child-baby-bib"/>
+    <title>Flower Child Baby Bib</title>
+    <s:type>Baby Bibs</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p110_i1_w768.jpg?v=1562723450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Bibs<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="color:rgb(34,34,34);">Let’s face it covering up that perfect outfit with a bib gets old. Try out these adorable bibs for outings and date nights. Why ruin a perfect outfit with occasional drool? Dress her up and top it off with this little beauty, to keep her occasional drooling off her perfect ensemble. The all cotton material is soft and fresh. We love them and are sure you will too!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Bibs</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926216671274</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>SKU-110</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926216572970</id>
+    <published>2019-07-09T21:49:44-04:00</published>
+    <updated>2019-07-09T21:49:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/princess-baby-bib"/>
+    <title>Princess Baby Bib</title>
+    <s:type>Baby Bibs</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p112_i1_w768.jpg?v=1562723438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Bibs<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Why cover up that stylish outfit with regular bibs. Try out this adorable Princess Baby Bib for outings and date nights. <span style="color:rgb(54,59,62);">These all natural organic cotton bibs are designed to keep baby looking their best all day even with the occasional drool. </span>​Chic and comfortable your baby will look and feel their best. The organic cotton material is as soft as your little angel.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Bibs</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926216572970</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU-112</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926216507434</id>
+    <published>2019-07-09T21:49:43-04:00</published>
+    <updated>2019-07-09T21:49:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/dainty-baby-bib"/>
+    <title>Dainty Baby Bib</title>
+    <s:type>Baby Bibs</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p113_i1_w768.jpg?v=1562723436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Bibs<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These Dainty Baby Bibs are designed to keep baby trendy and stylish while occasionally drooling. <span style="color:rgb(54,59,62);">All natural organic cotton sets these bibs apart. </span>​We all hate covering them up after picking out the perfect ensemble. Try out these adorable bibs for outings and date nights. The dainty baby bib is chic and comfortable your baby will look and feel amazing. The organic cotton material is refreshing. They are absolutely perfect.<br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Bibs</s:tag>
+    <s:tag>Out of Stock</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926216507434</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU-113</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926216441898</id>
+    <published>2019-07-09T21:49:42-04:00</published>
+    <updated>2019-07-09T21:49:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/dapper-baby-bib"/>
+    <title>Dapper Baby Bib</title>
+    <s:type>Baby Bibs</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p114_i1_w768.jpg?v=1562723433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Bibs<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fashion forward bibs shouldn’t be so hard to find, and yet they are. These Dapper Drool Bibs are designed to keep baby trendy and stylish while occasion drooling is also a thing. Teething isn’t fun but neither is covering up their cute little outfits. Try out these adorable bibs for outings and date nights. You are sure to love the all cotton material.<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Bibs</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926216441898</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>SKU-114</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926216409130</id>
+    <published>2019-07-09T21:49:40-04:00</published>
+    <updated>2019-07-09T21:49:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/sassy-baby-bib"/>
+    <title>Sassy Baby Bib</title>
+    <s:type>Baby Bibs</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p115_i1_w768.jpg?v=1562723430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Bibs<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fashion bibs? Yes fashion Sassy Baby Bibs because they are gorgeous and designed to keep baby dry while occasionally drooling. Teething isn’t fun, and all that drool makes for daily bib swapping and outfit cover ups. These sassy drool bibs contain bamboo fiber and cotton material for a drool restraint bib. Perfect for brunches and play dates. This comfortable bib will keep your baby feeling amazing. The material is soft and fresh. We know you won’t regret this adorable purchase.<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Bibs</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926216409130</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU-115</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926216343594</id>
+    <published>2019-07-09T21:49:39-04:00</published>
+    <updated>2019-07-09T21:49:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/lofty-baby-bib"/>
+    <title>Lofty Baby Bib</title>
+    <s:type>Baby Bibs</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p116_i2_w768.jpg?v=1562723428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Bibs<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Gorgeous and functional bibs should be easy to find and yet they aren’t. The Lofty Baby Bib is designed to be stylish and keep baby dry while going through those occasional drool moments. The bamboo fibers and cotton material make for a drool restraint bib. This designer bib is perfect for your baby's dress up dates. We are sure you will love them as much as we do!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Bibs</s:tag>
+    <s:tag>Out of Stock</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926216343594</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU-116</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926214017066</id>
+    <published>2019-07-09T21:47:27-04:00</published>
+    <updated>2019-07-09T21:47:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/farmhouse-baby-bib"/>
+    <title>Farmhouse Baby Bib</title>
+    <s:type>Baby Bibs</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p157_i1_w768.jpg?v=1562723270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Bibs<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This absolutely adorable Farmhouse Baby Bib is very home and garden. We love the way this country styled bib is both fresh and trendy. The tassels play up this cotton printed picture perfect baby bib. Now you can dress your baby up and know you have a fashion bib for those teething moments without ruining her whole ensemble. We are sure you will love this addition to her fabulous wardrobe.<br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Bibs</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926214017066</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU-157</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

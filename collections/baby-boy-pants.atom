@@ -1,0 +1,1650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.betterbabyboutique.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.betterbabyboutique.com/collections/baby-boy-pants.atom"/>
+  <title>Better Baby Boutique</title>
+  <updated>2021-02-12T11:01:45-05:00</updated>
+  <author>
+    <name>Better Baby Boutique</name>
+  </author>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4791397122129</id>
+    <published>2021-02-12T11:01:45-05:00</published>
+    <updated>2021-02-12T11:01:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/ribbed-solid-baby-pants"/>
+    <title>Ribbed Solid Baby Pants</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/ribbed-solid-baby-pants.jpg?v=1613145686"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">This beautiful and cozy pair of bottoms is a must have, so we are beyond excited to introduce the Ribbed Solid Baby </span><span class="il" data-mce-fragment="1">Pants</span><span data-mce-fragment="1">. These gender neutral lounge bottoms are sleek and sophisticated. Perfect for outings and so comfortable your mini will love falling asleep in these. Ribbed to perfection with a modern yet timeless design. We are certain you will simply adore these lovely baby </span><span class="il" data-mce-fragment="1">pants</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Boy Pants</s:tag>
+    <s:tag>Baby Girl Pants</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Spring</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4791397122129</id>
+      <title>0-3 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4791397122129</id>
+      <title>3-6 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4791397122129</id>
+      <title>6-9 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4791397122129</id>
+      <title>9-12 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4791397122129</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4791397122129</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4791397122129</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926223454250</id>
+    <published>2019-07-09T21:55:31-04:00</published>
+    <updated>2019-07-09T21:55:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/baby-boy-blue-jeans"/>
+    <title>Baby Boy Blue Jeans</title>
+    <s:type>Baby Boy Pants</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p5_i1_w800.jpg?v=1562723825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Boy Pants<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These baby boy blue jeans will have your little man ready to clean the pigs and shovel the hay. With an elastic waste and classic jean material, these pants are both comfortable and practical for your little man to hit the playground in.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Boy Pants</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926223454250</id>
+      <title>3-6 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926223454250</id>
+      <title>6-9 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926223454250</id>
+      <title>9-12 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926223454250</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926222241834</id>
+    <published>2019-07-09T21:54:27-04:00</published>
+    <updated>2019-07-09T21:54:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/jadore-bottoms"/>
+    <title>Jadore Bottoms</title>
+    <s:type>Baby Boy Pants</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p27_i1_w800.jpg?v=1562723748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Boy Pants<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Adorable. These white and black styled bottoms have an artistic design that cannot be denied. Your little one is sure to make a statement with these elastic waist sporty yet chic pants. Let them strut their stuff for the world to see. <br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Boy Pants</s:tag>
+    <s:tag>Baby Girl Pants</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Out of Stock</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926222241834</id>
+      <title>6-9 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--27</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926222241834</id>
+      <title>9-12 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--27</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926222241834</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--27</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926222241834</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--27</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926222241834</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--27</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926221717546</id>
+    <published>2019-07-09T21:53:50-04:00</published>
+    <updated>2019-07-09T21:53:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/x-pants"/>
+    <title>X Pants</title>
+    <s:type>Baby Boy Pants</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p36_i1_w768.jpg?v=1562723715"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Boy Pants<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These white and black x marks the spot are a treasure for sure. Mix and match your baby boy or girl style with these cute little pants. Pair with a tank top for a casual look or a onesie tucked in for flair and style. <br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Boy Pants</s:tag>
+    <s:tag>Baby Girl Pants</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Toddler Boy Clothes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926221717546</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926221717546</id>
+      <title>9-12 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926221717546</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926221717546</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926221717546</id>
+      <title>2T</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926220832810</id>
+    <published>2019-07-09T21:53:09-04:00</published>
+    <updated>2019-07-09T21:53:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/dressed-for-adventure"/>
+    <title>Dressed For Adventure</title>
+    <s:type>Baby Boy Pants</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p51_i1_w800.jpg?v=1562723667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Boy Pants<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="color:rgb(0,0,0);">Here is an outfit that is both fashionable and fun! This top is sure to show off baby boys outgoing and adventurous side while his little shorts show he can still be fashionable and chic at the same time. I’m adorable colors and details this is a sure winner in our book, we hope you love it as well.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Boy Outfits</s:tag>
+    <s:tag>Baby Boy Pants</s:tag>
+    <s:tag>Baby Boy Shirts</s:tag>
+    <s:tag>Out of Stock</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926220832810</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>SKU-51</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926220668970</id>
+    <published>2019-07-09T21:53:05-04:00</published>
+    <updated>2019-07-09T21:53:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/baby-boy-is-a-star"/>
+    <title>Baby Boy Is A Star</title>
+    <s:type>Baby Boy Pants</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p54_i1_w586.jpg?v=1562723662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Boy Pants<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="color:rgb(0,0,0);">Shine bright little one! This ensemble is one to catch the eyes of the fashionistas for sure! Chic and simple are words that come to mind while describing this perfect baby boy outfit! What isn’t to love about the all black designer baby boy bottoms and that perfect star on his adorable shirt reminding you of his shinning personality with every look. </span>​(Shoes not included)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Boy Outfits</s:tag>
+    <s:tag>Baby Boy Pants</s:tag>
+    <s:tag>Baby Boy Shirts</s:tag>
+    <s:tag>Out of Stock</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926220668970</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>SKU-54</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926220537898</id>
+    <published>2019-07-09T21:53:01-04:00</published>
+    <updated>2019-07-09T21:53:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/run-away-fashion-joggers"/>
+    <title>Run Away Fashion Joggers</title>
+    <s:type>Baby Boy Pants</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p56_i2_w800.jpg?v=1562723657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Boy Pants<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="color:rgb(0,0,0);">If you are looking for understated fashion here it is. These joggers bring comfort, style, and compatibility to your sweet baby's wardrobe. Pairing these with just about any top is sure to still have your star looking like the trend setter we all know they are. Cotton material offers comfort and the tie string adds style. </span>​</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Boy Pants</s:tag>
+    <s:tag>Baby Girl Pants</s:tag>
+    <s:tag>Out of Stock</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926220537898</id>
+      <title>6-9 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--56</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926220537898</id>
+      <title>9- 12 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--56</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926220537898</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--56</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926220111914</id>
+    <published>2019-07-09T21:52:42-04:00</published>
+    <updated>2019-07-09T21:52:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/stanley-jeans"/>
+    <title>Stanley Jeans</title>
+    <s:type>Baby Boy Pants</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p65_i3_w1125.jpg?v=1562723630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Boy Pants<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Blue comfortable, relaxed, trendy and fashionable baby boy jeans are just a few words that come to mind when describing these adorable bottoms. Dress them up for a party or down for a park play date. These go-to baby boy jeans add comfort and taste to his rotation of perfect outfits. The tone in these perfect jeans provide  everlasting taste, not a fad. You will be pleased to discover for yourself they harmonize well with most other pieces in his wardrobe. </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Boy Pants</s:tag>
+    <s:tag>Toddler Boy Clothes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926220111914</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>SKU--65</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926220111914</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>SKU--65</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926220111914</id>
+      <title>3T</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>SKU--65</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926220046378</id>
+    <published>2019-07-09T21:52:40-04:00</published>
+    <updated>2019-07-09T21:52:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/guarded-yellow-baby-boy-outfit"/>
+    <title>Guarded Yellow Baby Boy Outfit</title>
+    <s:type>Baby Boy Pants</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p66_i6_w768.jpg?v=1562723626"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Boy Pants<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This handsome outfit is absolutely adorable. It has style and color. This fashionable combination of color and stripes is screaming trendy. This perfect baby boy outfit will be a move addition outfit that will also look great when separated for other combinations.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Boy Outfits</s:tag>
+    <s:tag>Baby Boy Pants</s:tag>
+    <s:tag>Baby Boy Shirts</s:tag>
+    <s:tag>Out of Stock</s:tag>
+    <s:tag>Toddler Boy Clothes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926220046378</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>SKU--66</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926220046378</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>SKU--66</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926220046378</id>
+      <title>2T</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>SKU--66</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926219915306</id>
+    <published>2019-07-09T21:52:32-04:00</published>
+    <updated>2019-07-09T21:52:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/bradley-baby-boy-bottoms"/>
+    <title>Bradley Baby Boy Bottoms</title>
+    <s:type>Baby Boy Pants</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p68_i1_w1125.jpg?v=1562723613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Boy Pants<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These baby boy bottoms are perfection. Comfortable and trendy. Simple and fashionable. Will look adorable with the Bradley Baby Boy Top, but the reason we love these is they will look perfect with anything already in his chic wardrobe. We are sure of it!<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Boy Pants</s:tag>
+    <s:tag>Toddler Boy Clothes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926219915306</id>
+      <title>9-12 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>SKU--68</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926219915306</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>SKU--68</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926219915306</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>SKU--68</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926219915306</id>
+      <title>2T</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>SKU--68</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926219653162</id>
+    <published>2019-07-09T21:52:20-04:00</published>
+    <updated>2019-07-09T21:52:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/sweet-home-outfit"/>
+    <title>Sweet Home Outfit</title>
+    <s:type>Baby Boy Pants</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p72_i2_w1121.jpg?v=1562723597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Boy Pants<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="color:rgb(34,34,34);">Well if you’re looking for a quick and adorable baby boy outfit for your handsome prince here it is. The pin striped on the bottoms are perfect, chic and look extremely good with this playful top. Wear together or with other pieces for diversity! Either way we are sure you will be glad you went with this trendy combo. Appearance isn’t everything but your little model will surely make a statement with this outfit. (Shoes Not Included)</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Boy Outfits</s:tag>
+    <s:tag>Baby Boy Pants</s:tag>
+    <s:tag>Baby Boy Shirts</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Toddler Boy Clothes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926219653162</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--72</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926219653162</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--72</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926219653162</id>
+      <title>2T</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--72</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926219653162</id>
+      <title>3T</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--72</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926218276906</id>
+    <published>2019-07-09T21:51:11-04:00</published>
+    <updated>2019-07-09T21:51:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/noble-gent-baby-boy-onesie"/>
+    <title>Noble Gent Baby Boy Onesie</title>
+    <s:type>Baby Boy Pants</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p87_i1_w768.jpg?v=1562723531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Boy Pants<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="color:rgb(34,34,34);">This modish baby boy outfit is absolutely adoring. The grey and brown style play very well together giving it a flawless and seamless look. This is a modern take on timeless. Keep him looking sleek and trendy, comfortable and wholesome. We are certain this piece will be a very welcome piece in his wardrobe.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Boy Outfits</s:tag>
+    <s:tag>Baby Boy Pants</s:tag>
+    <s:tag>Baby Boy Shirts</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926218276906</id>
+      <title>3-6 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>SKU--87</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926218276906</id>
+      <title>6-9 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>SKU--87</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926218276906</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>SKU--87</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926218276906</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>SKU--87</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926218276906</id>
+      <title>9-12 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>SKU--87</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926218276906</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>SKU--87</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926217195562</id>
+    <published>2019-07-09T21:50:15-04:00</published>
+    <updated>2019-07-09T21:50:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/hang-loose-baby-boy-outfit"/>
+    <title>Hang Loose Baby Boy Outfit</title>
+    <s:type>Baby Boy Pants</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p101_i1_w768.jpg?v=1562723478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Boy Pants<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="color:rgb(34,34,34);">Well it’s almost time to get under the sun and love the weather again. Here is the perfect Hang Loose Outfit to look fresh and stylish while relaxing and not trying too hard. This adorable two piece baby boys outfit will have him comfortable and trendy all day. We are sure you will love it.</span><br>​</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Boy Outfits</s:tag>
+    <s:tag>Baby Boy Pants</s:tag>
+    <s:tag>Baby Boy Shirts</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926217195562</id>
+      <title>9-12 Momths</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>SKU--101</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926217195562</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>SKU--101</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926217195562</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>SKU--101</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926217195562</id>
+      <title>2T</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>SKU--101</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926217195562</id>
+      <title>3T</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>SKU--101</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926217195562</id>
+      <title>4T</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>SKU--101</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926217195562</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>SKU--101</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926215688234</id>
+    <published>2019-07-09T21:49:06-04:00</published>
+    <updated>2019-07-09T21:49:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/big-city-jeans"/>
+    <title>Big City Jeans</title>
+    <s:type>Baby Boy Pants</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p128_i2_w768.jpg?v=1562723389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Boy Pants<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Let’s talk Big City Jeans! These are absolutely a pair every baby should have in their wardrobe. We love this distressed look. The perfect jeans, they are trendy and unisex! Casual baby with big city fashion. Vintage blue with a modern twist. We are sure your baby will love them too!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Boy Pants</s:tag>
+    <s:tag>Baby Girl Pants</s:tag>
+    <s:tag>Toddler Boy Clothes</s:tag>
+    <s:tag>Toddler Girl Clothes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926215688234</id>
+      <title>6-9 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>SKU--128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926215688234</id>
+      <title>9-12 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>SKU--128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926215688234</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>SKU--128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926215688234</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>SKU--128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926215688234</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>SKU--128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926215688234</id>
+      <title>2T</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>SKU--128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926215688234</id>
+      <title>3T</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>SKU--128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926210379818</id>
+    <published>2019-07-09T21:43:03-04:00</published>
+    <updated>2019-07-09T21:43:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/ken-baby-boy-outfit"/>
+    <title>Ken Baby Boy Outfit</title>
+    <s:type>Baby Boy Pants</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p213_i2_w768.jpg?v=1562723008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Boy Pants<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This perfect color pop combination is almost too perfect for real life. So dress up your living ken doll is his very own Ken Baby Boy Outfit! He will look so stylish and handsome in this aqua blue and black ensemble. Who says girls should have all the fun? Boys get ready to step out and show the world that it really is YOUR runway. Trendsetting is now his job, you're welcome mom.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Boy Outfits</s:tag>
+    <s:tag>Baby Boy Pants</s:tag>
+    <s:tag>Baby Boy Shirts</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926210379818</id>
+      <title>6-9 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>SKU--213</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926210379818</id>
+      <title>9-12 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>SKU--213</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926210379818</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>SKU--213</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926210379818</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>SKU--213</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926210379818</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>SKU--213</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926210248746</id>
+    <published>2019-07-09T21:42:56-04:00</published>
+    <updated>2019-07-09T21:42:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/rad-white-and-blue-outfit"/>
+    <title>Rad White And Blue Outfit</title>
+    <s:type>Baby Boy Pants</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p215_i1_w768.jpg?v=1562723001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Boy Pants<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Proud to be an American! Wear this Rad White And Blue Outfit loud, proud and fashionably. This trendy little duo is sleek and straight to the point. Yes, he is RAD, white and blue! We absolutely adore the bottoms of this set. Stars and stripes all the way for your little prince. The perfect patriot!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Boy Outfits</s:tag>
+    <s:tag>Baby Boy Pants</s:tag>
+    <s:tag>Baby Boy Shirts</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Toddler Boy Clothes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926210248746</id>
+      <title>9-12 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>SKU--215</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926210248746</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>SKU--215</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926210248746</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>SKU--215</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926210248746</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>SKU--215</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926210248746</id>
+      <title>2T</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>SKU--215</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926210248746</id>
+      <title>3T</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>SKU--215</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926205497386</id>
+    <published>2019-07-09T21:38:14-04:00</published>
+    <updated>2019-07-09T21:38:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/bossy-boy-baby-outfit"/>
+    <title>Bossy Boy Baby Outfit</title>
+    <s:type>Baby Boy Pants</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p276_i1_w768.jpg?v=1562722723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Boy Pants<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stylish and oh so handsome. Just a couple of thoughts as we picture your little prince in this Bossy Boy BabyOutfit. We love the color pop and trendy patterns on this ensemble. The duo is definitely well matched. On the plus side we are certain they will also pair up wonderfully with other items in his sweet little wardrobe. Soft to the touch material, we know this will be a winner for sure. Hope you love this outfit as much as we do! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Boy Outfits</s:tag>
+    <s:tag>Baby Boy Pants</s:tag>
+    <s:tag>Baby Boy Shirts</s:tag>
+    <s:tag>Toddler Boy Clothes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926205497386</id>
+      <title>9-12 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>SKU--276</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926205497386</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>SKU--276</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926205497386</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>SKU--276</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926205497386</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>SKU--276</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926205497386</id>
+      <title>2T</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>SKU--276</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926205497386</id>
+      <title>3T</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>SKU--276</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926205104170</id>
+    <published>2019-07-09T21:37:57-04:00</published>
+    <updated>2019-07-09T21:37:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/mister-cool-baby-boy-outfit"/>
+    <title>Mister Cool Baby Boy Outfit</title>
+    <s:type>Baby Boy Pants</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p280_i1_w768.jpg?v=1562722707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Boy Pants<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hello Mister Too Cool! The pastels on this combo are fresh, modern and trendy, a triple threat. With a name like Mister Cool Baby Boy Outfit who wouldn’t be just chillin’? That’s right little ones feel and look your best because as a Better Baby it’s basically your right. We love seeing our cuties looking their best so style up and hit the town the right way! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Boy Outfits</s:tag>
+    <s:tag>Baby Boy Pants</s:tag>
+    <s:tag>Baby Boy Shirts</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Toddler Boy Clothes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926205104170</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--280</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926205104170</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--280</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926205104170</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--280</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926205104170</id>
+      <title>2T</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--280</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926205104170</id>
+      <title>3T</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--280</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926205104170</id>
+      <title>4T</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--280</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926204710954</id>
+    <published>2019-07-09T21:37:39-04:00</published>
+    <updated>2019-07-09T21:37:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/martin-baby-boy-outfit"/>
+    <title>Martin Baby Boy Outfit</title>
+    <s:type>Baby Boy Pants</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p286_i1_w768.jpg?v=1562722679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Boy Pants<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Loving the navy blue on this already adorable Martin Baby Boy Outfit! This jogger suit is just too cute for words, we love the way this material feels and we know your mini will too. Comfort is everything but why sacrifice on style when you don’t have to? Dress you little one up for an errand run, play date, date night.. you name it, we have you covered! We are certain you will adore this two piece as much as we do! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Boy Outfits</s:tag>
+    <s:tag>Baby Boy Pants</s:tag>
+    <s:tag>Baby Boy Shirts</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926204710954</id>
+      <title>6-9 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--286</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926204710954</id>
+      <title>9-12 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--286</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926204710954</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--286</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926204710954</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--286</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926204710954</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--286</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926204350506</id>
+    <published>2019-07-09T21:37:17-04:00</published>
+    <updated>2019-07-09T21:37:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/style-me-baby-pants"/>
+    <title>Style Me Baby Pants</title>
+    <s:type>Baby Boy Pants</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p289_i2_w768.jpg?v=1562722666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Boy Pants<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These gorgeous baby jeggings are the perfect bottoms to style as you please! We are so in love with our Style Me Baby Pants. Rock them out with boots for the season or dress them up with flats when you’re on the go! Designed with faux front pockets and real back pockets for extra cuteness &amp; functionality. Stretchy material for all the comfort, we just know your little babe will love these bottoms! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Boy Pants</s:tag>
+    <s:tag>Baby Girl Pants</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Toddler Boy Clothes</s:tag>
+    <s:tag>Toddler Girl Clothes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926204350506</id>
+      <title>9-12 Months / Ruby</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--289</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926204350506</id>
+      <title>9-12 Months / Navy</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--289</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926204350506</id>
+      <title>12-16 Months / Ruby</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--289</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926204350506</id>
+      <title>12-16 Months / Navy</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--289</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926204350506</id>
+      <title>16-20 Months / Ruby</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--289</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926204350506</id>
+      <title>16-20 Months / Navy</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--289</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926204350506</id>
+      <title>20-24 Months / Ruby</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--289</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926204350506</id>
+      <title>20-24 Months / Navy</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--289</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926204350506</id>
+      <title>2T / Ruby</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--289</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926204350506</id>
+      <title>2T / Navy</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--289</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926204350506</id>
+      <title>3T / Ruby</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--289</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926204350506</id>
+      <title>3T / Navy</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--289</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926204350506</id>
+      <title>9-12 Months / Mustard</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--289</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926204350506</id>
+      <title>12-16 Months / Mustard</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--289</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926204350506</id>
+      <title>16-20 Months / Mustard</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--289</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926204350506</id>
+      <title>20-24 Months / Mustard</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--289</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926204350506</id>
+      <title>2T / Mustard</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--289</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926204350506</id>
+      <title>3T / Mustard</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--289</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926204350506</id>
+      <title>4T / Mustard</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--289</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926203891754</id>
+    <published>2019-07-09T21:36:57-04:00</published>
+    <updated>2019-07-09T21:36:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/black-and-jean-baby-boy-outfit"/>
+    <title>Black And Jean Baby Boy Outfit</title>
+    <s:type>Baby Boy Pants</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p293_i1_w768.jpg?v=1562722638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Boy Pants<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gotta love a simple and chic jean combo! Our Black And Jean Baby Boy Outfit delivers just that. Keep it casual but fashionable, that is always our goal. Perfect for mix and match but pair so well and gorgeous together. Denim is the way to go, timeless and effortlessly trendy. We know you will adore this outfit! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Boy Outfits</s:tag>
+    <s:tag>Baby Boy Pants</s:tag>
+    <s:tag>Baby Boy Shirts</s:tag>
+    <s:tag>Toddler Boy Clothes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926203891754</id>
+      <title>9-12 Months</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>SKU--293</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926203891754</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>SKU--293</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926203891754</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>SKU--293</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926203891754</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>SKU--293</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926203891754</id>
+      <title>2T</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>SKU--293</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926203891754</id>
+      <title>3T</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>SKU--293</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926203891754</id>
+      <title>4T</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>SKU--293</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926196682794</id>
+    <published>2019-07-09T21:28:05-04:00</published>
+    <updated>2019-07-09T21:28:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/star-struck-baby-boy-outfit"/>
+    <title>Star Struck Baby Boy Outfit</title>
+    <s:type>Baby Boy Pants</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p384_i1_w768.jpg?v=1562722109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Boy Pants<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hello handsome! Stars and Stripes, yes please! Have all eyes on him in this adorable and cozy Star Stuck Baby Boy Outfit! This hooded outfit is perfect for long days out when you want style, of course but also lasting comfort! Soft to the touch your little one will feel his best while looking the part. We just know you will adore this outfit as much as we do! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Boy Outfits</s:tag>
+    <s:tag>Baby Boy Pants</s:tag>
+    <s:tag>Baby Boy Shirts</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926196682794</id>
+      <title>9-12 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>SKU--384</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926196682794</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>SKU--384</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926196682794</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>SKU--384</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926196682794</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>SKU--384</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926196682794</id>
+      <title>2T</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>SKU--384</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926196682794</id>
+      <title>3T</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>SKU--384</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926189080618</id>
+    <published>2019-07-09T21:20:35-04:00</published>
+    <updated>2019-07-09T21:20:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/get-em-denim-baby-jeans"/>
+    <title>Get Em Denim Baby Jeans</title>
+    <s:type>Baby Boy Pants</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p471_i1_w768.jpg?v=1562721655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Boy Pants<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These amazing loose fitting jeans are perfect for both him and her! Gender neutral and stylish. Available in the two most versatile colors. Dress these cuties up or keep the super casual. We know these will surely become a wardrobe favorite. Faux wood buttons add some fun to this design and fully functional pockets are always a win win with a toddler. We couldn’t be happier about this addition to our Better Baby Line. We hope you adore these Get Em Denim Baby Jeans as much as we do!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Boy Pants</s:tag>
+    <s:tag>Baby Girl Pants</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Private Label</s:tag>
+    <s:tag>Toddler Boy Clothes</s:tag>
+    <s:tag>Toddler Girl Clothes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926189080618</id>
+      <title>2T / Denim</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>SKU--471</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926189080618</id>
+      <title>2T / Khaki</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>SKU--471</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926189080618</id>
+      <title>3T / Denim</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>SKU--471</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926189080618</id>
+      <title>3T / Khaki</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>SKU--471</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926189080618</id>
+      <title>4T / Denim</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>SKU--471</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926189080618</id>
+      <title>4T / Khaki</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>SKU--471</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

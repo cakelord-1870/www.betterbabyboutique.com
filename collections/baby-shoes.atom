@@ -1,0 +1,1761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.betterbabyboutique.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.betterbabyboutique.com/collections/baby-shoes.atom"/>
+  <title>Better Baby Boutique</title>
+  <updated>2021-07-01T17:00:18-04:00</updated>
+  <author>
+    <name>Better Baby Boutique</name>
+  </author>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/6595651600465</id>
+    <published>2021-07-01T17:00:18-04:00</published>
+    <updated>2021-07-01T17:00:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/blair-baby-girl-shoe"/>
+    <title>Blair Baby Girl Shoe</title>
+    <s:type>Baby Shoes</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/blair-baby-girl-shoe.jpg?v=1625173203"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Shoes<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Introducing these chic and elegant first walker adorable slip ons, meet the Blair </span><span class="il" data-mce-fragment="1">Baby</span><span data-mce-fragment="1"> Girl Shoe. Stunning yet cozy and light. Perfect for all seasons. Composed of durable cloth providing comfort and protection. Slip on these cuties for the perfect touch of classy to her It Girl outfit. We are in love with these little cuties and know you will be as well! Enjoy. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Baby Girl Shoes</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/6595651600465</id>
+      <title>0-6 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/6595651600465</id>
+      <title>6-12 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/6595651600465</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/6543306457169</id>
+    <published>2021-03-08T16:14:33-05:00</published>
+    <updated>2021-03-08T16:14:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/step-to-baby-sneaker"/>
+    <title>Step To Baby Sneaker</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/image0_9.jpg?v=1615238063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Introducing the charming Robinson </span><span class="il" data-mce-fragment="1">Baby</span><span data-mce-fragment="1"> Jumpsuit. Timeless style and so much class. We are in love with this sweet outfit and we are certain you can see why. Helpful buttons help with make diaper changes a literal snap! Buttons along the back side help getting in and out of this adorable onesie easy as pie. We are over the moon with this little outfit and we are certain it will be a favorite of yours as well!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Boy Shoes</s:tag>
+    <s:tag>Baby Girl Shoes</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/6543306457169</id>
+      <title>0-6 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/6543306457169</id>
+      <title>6-12 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/6543306457169</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4695949246545</id>
+    <published>2020-09-22T20:44:32-04:00</published>
+    <updated>2020-09-22T20:44:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/wendy-baby-girl-skirt"/>
+    <title>Wendy Baby Girl Skirt</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/wendy-baby-girl-skirt.jpg?v=1600821873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Hello gorgeous! This absolutely stunning plaid skirt is the beautiful </span><span class="il" data-mce-fragment="1">Wendy</span><span data-mce-fragment="1"> Baby Girl Skirt. Stunning hem line, school girl design and classic colors! What’s not to love about this little gem. Elastic waist allows your mini to have her best possible fit, and we know you will just adore the way she looks! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Girl Shoes</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Toddler Girl Clothes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4695949246545</id>
+      <title>2T</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4695949246545</id>
+      <title>3T</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4695949246545</id>
+      <title>4T</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4695949246545</id>
+      <title>5T</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4673651736657</id>
+    <published>2020-08-19T12:36:18-04:00</published>
+    <updated>2020-08-19T12:36:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/noel-baby-sandals"/>
+    <title>Noel Baby Sandals</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/noel-baby-sandals.jpg?v=1597854978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>This trendy little slip on sandal is the ideal neutral shoe! Perfect for him or her, and matches just about everything. The simple yet fashionable Noel Baby Sandal is a classic staple, and we are certain you will adore it as much as we do! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Boy Shoes</s:tag>
+    <s:tag>Baby Girl Shoes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4673651736657</id>
+      <title>0-6 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4673651736657</id>
+      <title>6-12 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4673651736657</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4436719501393</id>
+    <published>2019-12-11T21:27:03-05:00</published>
+    <updated>2019-12-11T21:27:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/step-up-baby-shoe"/>
+    <title>Step Up Baby Shoe</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/step-up-baby-shoe.jpg?v=1576117729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>These stylish little baby shoes are everything, they also go with everything! Keep this adorable little toes trendy and cozy in these little high top booty styled shoe! Rubber bottoms assist your babe while they take those sweet little step in your direction. Dress up or keep it casual, the Step Up Baby Shoe is the perfect shoe to complete your trendsetters ensemble! We just know you will adore these as much as we do. Enjoy! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Boy Shoes</s:tag>
+    <s:tag>Baby Girl Shoes</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4436719501393</id>
+      <title>0-6 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4436719501393</id>
+      <title>6-12 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4436719501393</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4375980933201</id>
+    <published>2019-11-14T16:26:32-05:00</published>
+    <updated>2019-11-14T16:26:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/wild-one-baby-shoes"/>
+    <title>Wild One Baby Shoes</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/wild-one-baby-shoes.jpg?v=1573767418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Walking straight into your heart are these adorable Wild One Baby Shoes. Gorgeously designed with comfort and style in mind. Rubber soles will help your mini with balance and will add support as they learn to take their first steps! Here to help you keep them always with their best foot forward. These little boots were certainly made for walking! Although just sitting around looking flawless is always good too. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Girl Shoes</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4375980933201</id>
+      <title>0-6 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4375980933201</id>
+      <title>6-12 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4375980933201</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4258655371306</id>
+    <published>2019-10-15T11:01:31-04:00</published>
+    <updated>2019-10-15T11:01:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/put-a-sock-on-it-baby-slippers"/>
+    <title>Put A Sock On It Baby Slippers</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/put-a-sock-on-it-baby-slippers-brown.jpg?v=1571153191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Keep tiny toes warm and snuggled in these adorable baby sock slippers. Our Put A Sock On It Baby Slippers will surely put a smile on your minis face seeing little creatures on their toes. Comfortable and trendy these will surely be a go to for days in. We simply love them and hope you do as well. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Boy Shoes</s:tag>
+    <s:tag>Baby Girl Shoes</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4258655371306</id>
+      <title>0-12 Months / Blue</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4258655371306</id>
+      <title>0-12 Months / Brown</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4258655371306</id>
+      <title>1-3T / Blue</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4258655371306</id>
+      <title>1-3T / Brown</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3960728027178</id>
+    <published>2019-09-13T12:56:43-04:00</published>
+    <updated>2019-09-13T12:56:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/tasseled-baby-girl-sandals"/>
+    <title>Tasseled Baby Girl Sandals</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/tasseled-baby-girl-sandals.jpg?v=1568393896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>This stylish little cuties are simply perfection. They go with everything, and are so trendy and comfortable. We love these cuties not only because they are adorable but your mini will love the way she feels in them. Velcro strap helps you make these a Cinderella fit. We are certain you will fall for our Tasseled Baby Girl Sandals as much as we have! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Girl Shoes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3960728027178</id>
+      <title>0-6 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3960728027178</id>
+      <title>6-12 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3960728027178</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3931964866602</id>
+    <published>2019-07-19T10:36:24-04:00</published>
+    <updated>2019-07-19T10:36:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/baby-gladiator-sandals"/>
+    <title>Baby Gladiator Sandals</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/gladiator-baby-sandals-white.jpg?v=1565109961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>We all love baby feet! Teeny and so precious. Well why not dress them up with the same style you shower her in every day? We can’t get over these gorgeous little Baby Gladiator Sandals. They are indeed the cherry on top to any and all outfits. Soft rubber sole and a perfect designer look to make her look cat walk ready everyday. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Girl Shoes</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3931964866602</id>
+      <title>0-3 Months / White</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3931964866602</id>
+      <title>3-6 Months / White</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3931964866602</id>
+      <title>0-3 Months / Black</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3931964866602</id>
+      <title>3-6 Months / Black</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3931964866602</id>
+      <title>0-3 Months / Nude</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3931964866602</id>
+      <title>3-6 Months / Nude</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3931964866602</id>
+      <title>0-3 Months / Brown</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3931964866602</id>
+      <title>3-6 Months / Brown</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3931964866602</id>
+      <title>6-12 Months / Black</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3931964866602</id>
+      <title>6-12 Months / Nude</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3931964866602</id>
+      <title>6-12 Months / Brown</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3931964866602</id>
+      <title>6-12 Months / White</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3931964866602</id>
+      <title>12-18 Months / Black</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3931964866602</id>
+      <title>12-18 Months / Nude</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3931964866602</id>
+      <title>12-18 Months / Brown</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3931964866602</id>
+      <title>12-18 Months / White</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3931964866602</id>
+      <title>18-24 Months / Black</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3931964866602</id>
+      <title>18-24 Months / Nude</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3931964866602</id>
+      <title>18-24 Months / Brown</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3931964866602</id>
+      <title>18-24 Months / White</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3927050551338</id>
+    <published>2019-07-10T19:19:35-04:00</published>
+    <updated>2019-07-10T19:19:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/down-to-earth-moccasins"/>
+    <title>Down To Earth Moccasins</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/down-to-earth-baby-moccasins-pink.jpg?v=1567804100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>These adorable baby moccs are a sure winner in our book. Love them and wear them with just about everything. These everyday baby shoes are unique and stylish. With availability in multiple colors while providing maximum comfort we are sure these will be a favorite.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Girl Shoes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3927050551338</id>
+      <title>0-6 Months / Brown</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3927050551338</id>
+      <title>0-6 Months / Pink</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3927050551338</id>
+      <title>0-6 Months / Black</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3927050551338</id>
+      <title>0-6 Months / Nude</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3927050551338</id>
+      <title>0-6 Months / Gray</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3927050551338</id>
+      <title>6-12 Months / Brown</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3927050551338</id>
+      <title>6-12 Months / Pink</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3927050551338</id>
+      <title>6-12 Months / Black</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3927050551338</id>
+      <title>6-12 Months / Nude</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3927050551338</id>
+      <title>6-12 Months / Gray</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3927050551338</id>
+      <title>12-18 Months / Brown</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3927050551338</id>
+      <title>12-18 Months / Black</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3927050551338</id>
+      <title>12-18 Months / Pink</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3927050551338</id>
+      <title>12-18 Months / Nude</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3927050551338</id>
+      <title>12-18 Months / Gray</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3927050551338</id>
+      <title>0-6 Months / White</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3927050551338</id>
+      <title>6-12 Months / White</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3927050551338</id>
+      <title>12-18 Months / White</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926222667818</id>
+    <published>2019-07-09T21:54:49-04:00</published>
+    <updated>2019-07-09T21:54:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/trend-setter-sandals"/>
+    <title>Trend Setter Sandals</title>
+    <s:type>Baby Girl Shoes</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p20_i1_w1000.jpg?v=1562723783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Girl Shoes<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Feels like summer! Keep your bundle of joy flawless with these fashionably perfect sandals. These anti-slip soft sandals will accessorize without compromise. </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Girl Shoes</s:tag>
+    <s:tag>Out of Stock</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926222667818</id>
+      <title>12-18 Months / Black</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926222667818</id>
+      <title>12-18 Months / White</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926222667818</id>
+      <title>12-18 Months / Gold</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926222667818</id>
+      <title>18-24 Months / Black</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926222667818</id>
+      <title>18-24 Months / White</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926222667818</id>
+      <title>18-24 Months / Gold</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926222667818</id>
+      <title>6-12 Months / Black</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926222667818</id>
+      <title>6-12 Months / White</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926222667818</id>
+      <title>6-12 Months / Gold</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926222438442</id>
+    <published>2019-07-09T21:54:36-04:00</published>
+    <updated>2019-07-09T21:54:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/american-girl-bootie"/>
+    <title>American Girl Bootie</title>
+    <s:type>Baby Girl Shoes</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p24_i1_w800.jpg?v=1562723765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Girl Shoes<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These fashion filled booties will make your little cowgirl the "it girl" of the party. Gorgeous fringe decorates these anti-slip soft soled boots making them safe for your angel to make her rounds. Complementing a large variety of outfits we are positive these baby girl shoes will become a favorite finishing piece for all her adorable outfits. The “American girl” pre-walker moccasins come in a variety of colors for your shopping pleasure.<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Girl Shoes</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926222438442</id>
+      <title>13-18 Months / Black</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926222438442</id>
+      <title>13-18 Months / Nude</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926222438442</id>
+      <title>0-6 Months / Black</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926222438442</id>
+      <title>0-6 Months / Nude</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926222438442</id>
+      <title>7-12 Months / Black</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926222438442</id>
+      <title>7-12 Months / Nude</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926222372906</id>
+    <published>2019-07-09T21:54:34-04:00</published>
+    <updated>2019-07-09T21:54:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/handsome-hightops"/>
+    <title>Handsome Hightops</title>
+    <s:type>Baby Boy Shoes</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p25_i1_w800.jpg?v=1562723755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Boy Shoes<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Perfect his already fashionable wardrobe by adding these flawlessly chic yet casual plaid soft sole sneaker. Grey cotton fabric will keep his little feet comfortable and perfectly adorned all day. These hightop sneakers have so much character from the plaid design to the black laces and grey detail around the sole. He will surely walk away as the trendsetter in these stylish baby boy shoes, so make way.  <br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Boy Shoes</s:tag>
+    <s:tag>Out of Stock</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926222372906</id>
+      <title>0-6 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>SKU--25</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926222372906</id>
+      <title>6-12 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>SKU--25</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926222372906</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>SKU--25</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926221193258</id>
+    <published>2019-07-09T21:53:25-04:00</published>
+    <updated>2019-07-09T21:53:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/knot-me-tied-glitter-slippers"/>
+    <title>Knot Me Tied Glitter Slippers</title>
+    <s:type>Baby Girl Shoes</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p44_i1_w1001.jpg?v=1562723696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Girl Shoes<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Ok lets face it we all want a pair. Glitter is a girls best friend right from the womb! These elaborate yet elegant slippers are a match for just about all of your little girl's outfits. Your <span>baby</span> girl's feet will thank you for dressing them beautifully as well. No matter what the occasion these highly attractive slippers will please just about any attire. Don't sacrifice on comfort for style or style for cost. Get it all with these little beauties!<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Girl Shoes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926221193258</id>
+      <title>0-6 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>SKU--44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926221193258</id>
+      <title>6-12 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>SKU--44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926221193258</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>SKU--44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926221062186</id>
+    <published>2019-07-09T21:53:18-04:00</published>
+    <updated>2019-07-09T21:53:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/tassels-and-bow-shoe"/>
+    <title>Tassels And Bow Shoe</title>
+    <s:type>Baby Girl Shoes</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p46_i1_w680.jpg?v=1562723690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Girl Shoes<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="color:rgb(0,0,0);">Beautifully designed baby first walker soft sole shoe. The tassels add a chic and girly play to the show while the bow adds sophistication and class.. This shoe is classic and fashionable. Offered in multiple colors this is a sure fire must have to your little baby girls wardrobe.</span><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Girl Shoes</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926221062186</id>
+      <title>0-6 Months / White</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--46</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926221062186</id>
+      <title>0-6 Months / Pink</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--46</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926221062186</id>
+      <title>6-12 Months / White</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--46</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926221062186</id>
+      <title>6-12 Months / Pink</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--46</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926221062186</id>
+      <title>12-18 Months / White</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--46</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926221062186</id>
+      <title>12-18 Months / Pink</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--46</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926221062186</id>
+      <title>0-6 Months / Red</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--46</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926221062186</id>
+      <title>6-12 Months / Red</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--46</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926221062186</id>
+      <title>12-18 Months / Red</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--46</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926221062186</id>
+      <title>0-6 Months / Black</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--46</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926221062186</id>
+      <title>6-12 Months / Black</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--46</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926221062186</id>
+      <title>12-18 Months / Black</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--46</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926220439594</id>
+    <published>2019-07-09T21:52:57-04:00</published>
+    <updated>2019-07-09T21:52:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/glitter-and-toes"/>
+    <title>Glitter And Toes</title>
+    <s:type>Baby Girl Shoes</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p59_i1_w634.jpg?v=1562723651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Girl Shoes<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="color:rgb(0,0,0);">Nothing short of gorgeous! These anti-slip perfect baby girl shoe is a crowd pleaser no doubt. Appearance and comfort are what these shoes were made for. They will complement your daughter perfectly. Slip these beautiful baby girl shoes right on and hit the road! No fuss, all sass. </span>​<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Girl Shoes</s:tag>
+    <s:tag>Out of Stock</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926220439594</id>
+      <title>6-12 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--59</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926220439594</id>
+      <title>0-6 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--59</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926220439594</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--59</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926220406826</id>
+    <published>2019-07-09T21:52:54-04:00</published>
+    <updated>2019-07-09T21:52:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/bow-knot-perfection"/>
+    <title>Bow Knot Perfection</title>
+    <s:type>Baby Girl Shoes</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p60_i1_w500.jpg?v=1562723648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Girl Shoes<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This sandal is luxurious no doubt. It is worthy to be paired with just about all your baby girls beautiful ensembles. Tasteful and comfortable your princess is sure to love these. The outsole material is cork making them very functional. We hope you love these as much as we do.We offer them in multiple colors so feel free to color up her wardrobe!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Girl Shoes</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926220406826</id>
+      <title>White / 0-6 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--60</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926220406826</id>
+      <title>White / 6-12 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--60</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926220406826</id>
+      <title>White / 12-18 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--60</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926220406826</id>
+      <title>Pink / 0-6 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--60</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926220406826</id>
+      <title>Pink / 6-12 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--60</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926220406826</id>
+      <title>Pink / 12-18 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--60</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926220406826</id>
+      <title>Black / 0-6 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--60</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926220406826</id>
+      <title>Black / 6-12 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--60</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926220406826</id>
+      <title>Black / 12-18 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--60</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926219620394</id>
+    <published>2019-07-09T21:52:18-04:00</published>
+    <updated>2019-07-09T21:52:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/princess-shoe"/>
+    <title>Princess Shoe</title>
+    <s:type>Baby Girl Shoes</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p74_i1_w768.jpg?v=1562723589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Girl Shoes<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="color:rgb(34,34,34);">Check out these adorable princess styled baby girl shoe. Glamorous and the perfect color that plays very well with multiple shades of clothing to add style and give that extra stunning finish. Comfortable and chic these baby girl first walker shoe will surely be a crowd pleaser. Designer fresh look with an affordable boutique price, what’s not to love about this perfect duo?</span><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Girl Shoes</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926219620394</id>
+      <title>0-6 Months</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>SKU--74</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926219620394</id>
+      <title>6-12 Months</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>SKU--74</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926219620394</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>SKU--74</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926215524394</id>
+    <published>2019-07-09T21:48:54-04:00</published>
+    <updated>2019-07-09T21:48:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/diana-baby-girl-shoe"/>
+    <title>Diana Baby Girl Shoe</title>
+    <s:type>Baby Girl Shoes</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p131_i1_w768.jpg?v=1562723378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Girl Shoes<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This Diana Baby Girl Shoe in its nude shade is absolutely gorgeous. We love the light and airy look about it. It combines elegance and simplicity. The Velcro strap make for easy access. They also have a soft sole to keep baby comfortable all day, and isn’t that really all we want. Happy baby happy life, isn’t that how the saying goes? A trendy baby girl shoe for a modern and timeless look.<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Girl Shoes</s:tag>
+    <s:tag>Out of Stock</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926215524394</id>
+      <title>0-6 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>SKU--131</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926215524394</id>
+      <title>6-12 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>SKU--131</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926215524394</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>SKU--131</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926215196714</id>
+    <published>2019-07-09T21:48:33-04:00</published>
+    <updated>2019-07-09T21:48:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/jack-and-jill-baby-shoe"/>
+    <title>Jack And Jill Baby Shoe</title>
+    <s:type>Baby Boy Shoes</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p137_i1_w768.jpg?v=1562723355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Boy Shoes<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This Jack And Jill Baby Shoe offers the perfect neutrality to baby's wardrobe! With brown accents &amp; straight laces, this unisex baby shoe can be paired with almost anything. Soft soles &amp; canvas material bring a comfortable &amp; durable mix for any occasion. </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Boy Shoes</s:tag>
+    <s:tag>Out of Stock</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926215196714</id>
+      <title>0-6 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>SKU--137</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926215196714</id>
+      <title>6-12 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>SKU--137</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926215196714</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>SKU--137</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926212509738</id>
+    <published>2019-07-09T21:45:45-04:00</published>
+    <updated>2019-07-09T21:45:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/toes-and-tassels-baby-sandal"/>
+    <title>Toes And Tassels Baby Sandal</title>
+    <s:type>Baby Boy Shoes</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p176_i1_w768.jpg?v=1562723164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Boy Shoes<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sassy and trendy these gorgeous champagne Toes And Tassels Baby Sandal will be your go to for your favorite finishing touch! Light enough for your little one who is still trying to figure out how to lift her little toes high enough to get moving. She will be a doll in these first walker baby shoes. Velcro back makes it for easy access. Fashion isn’t just for grown ups and these little babes prove that!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Boy Shoes</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Out of Stock</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926212509738</id>
+      <title>0-6 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--176</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926212509738</id>
+      <title>6-12 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--176</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926212509738</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>SKU--176</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926212476970</id>
+    <published>2019-07-09T21:45:43-04:00</published>
+    <updated>2019-07-09T21:45:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/gold-leopard-baby-shoes"/>
+    <title>Gold Leopard Baby Shoes</title>
+    <s:type>Baby Boy Shoes</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p177_i1_w768.jpg?v=1562723161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Boy Shoes<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These Gold Leopard Baby Shoes will put the sass back into her wardrobe! Comfortable, soft soles allow for flexible mobility while dazzling onlookers with glittery charm. These shoes are sure to be the center piece of almost any outfit ensemble, helping her shine like the bright star that she is!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Boy Shoes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926212476970</id>
+      <title>0-6 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>SKU--177</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926212476970</id>
+      <title>6-12 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>SKU--177</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926212476970</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>SKU--177</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926212444202</id>
+    <published>2019-07-09T21:45:40-04:00</published>
+    <updated>2019-07-09T21:45:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/silver-leopard-baby-shoes"/>
+    <title>Silver Leopard Baby Shoes</title>
+    <s:type>Baby Boy Shoes</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p178_i1_w768.jpg?v=1562723157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Boy Shoes<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These Silver Leopard Baby Shoes have all of the great qualities as the gold version! These baby shoes offer your little one flexible mobility and comfortable soft soles that will dazzle onlookers with their glittery charm. If you are looking for a vibrant center piece for almost any outfit ensemble, you've found it. These Silver Baby Shoes are sure to make her shine like the bright star that she is!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Boy Shoes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926212444202</id>
+      <title>0-6 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>SKU--178</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926212444202</id>
+      <title>6-12 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>SKU--178</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926212444202</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>SKU--178</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926211919914</id>
+    <published>2019-07-09T21:44:59-04:00</published>
+    <updated>2019-07-09T21:44:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/muse-baby-sandal"/>
+    <title>Muse Baby Sandal</title>
+    <s:type>Baby Girl Shoes</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p186_i1_w768.jpg?v=1562723123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Girl Shoes<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These cuties are not only gorgeous but super easy to remove and put on, that’s a win win! Comfortable and flexible this adorable Muse Baby Sandal has it all. The bow setting placed neatly on the tassels is perfect. It is all in the details! They play so nicely with just about any outfit. You will surely love these baby girl sandals for just about everyday!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Girl Shoes</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926211919914</id>
+      <title>0-6 Months / Gold</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>SKU--186</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926211919914</id>
+      <title>6-12 Months / Gold</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>SKU--186</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926211919914</id>
+      <title>12-18 Months / Gold</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>SKU--186</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926211919914</id>
+      <title>0-6 Months / White</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>SKU--186</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926211919914</id>
+      <title>6-12 Months / White</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>SKU--186</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926211919914</id>
+      <title>12-18 Months / White</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>SKU--186</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926211919914</id>
+      <title>0-6 Months / Pink</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926211919914</id>
+      <title>6-12 Months / Pink</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926211919914</id>
+      <title>12-8 Months / Pink</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926210773034</id>
+    <published>2019-07-09T21:43:37-04:00</published>
+    <updated>2019-07-09T21:43:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/fly-camel-baby-shoe"/>
+    <title>Fly Camel Baby Shoe</title>
+    <s:type>Baby Girl Shoes</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p206_i1_w768.jpg?v=1562723040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Girl Shoes<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This stylish and adorable earthy toned Fly Camel Baby Shoe are a treasure. We love the lace up greek sandal look. They look trendy and sophisticated but also comfortable and effortlessly chic. We are certain you and your little fashionista will love these sweet little toe huggers. Such an easy going color and fun sandal, what is there not to love? </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Girl Shoes</s:tag>
+    <s:tag>Out of Stock</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926210773034</id>
+      <title>0-6 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>SKU--206</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926210773034</id>
+      <title>6-12 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>SKU--206</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926210773034</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>SKU--206</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

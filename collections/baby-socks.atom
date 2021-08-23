@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.betterbabyboutique.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.betterbabyboutique.com/collections/baby-socks.atom"/>
+  <title>Better Baby Boutique</title>
+  <updated>2020-08-18T15:05:37-04:00</updated>
+  <author>
+    <name>Better Baby Boutique</name>
+  </author>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4673190756433</id>
+    <published>2020-08-18T15:05:37-04:00</published>
+    <updated>2020-08-18T15:05:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/knitted-baby-girl-socks"/>
+    <title>Knitted Baby Girl Socks</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/knitted-baby-girl-socks.jpg?v=1597777538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Hello vintage cutie! Giving us all the classic classy feels are these adorable Knitted Baby Girl Socks. With their soft girly design and perfectly placed bow, they just couldn’t be more perfect. Ideal for any outing as they are comfortable and breathable your mini will look as great as she feels. Style with just about anything and be certain she will steal a few hearts on your outing! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Baby Socks</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4673190756433</id>
+      <title>3-6 Months / White</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4673190756433</id>
+      <title>3-6 Months / Khaki</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4673190756433</id>
+      <title>6-9 Months / White</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4673190756433</id>
+      <title>6-9 Months / Khaki</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4673190756433</id>
+      <title>9-12 Months / White</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4673190756433</id>
+      <title>9-12 Months / Khaki</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4673190756433</id>
+      <title>12-16 Months / White</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4673190756433</id>
+      <title>12-16 Months / Khaki</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4673190756433</id>
+      <title>16-20 Months / White</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4673190756433</id>
+      <title>16-20 Months / Khaki</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4673190756433</id>
+      <title>20-24 Months / White</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4673190756433</id>
+      <title>20-24 Months / Khaki</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4673190756433</id>
+      <title>2T / White</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4673190756433</id>
+      <title>2T / Khaki</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4673190756433</id>
+      <title>3T / White</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4673190756433</id>
+      <title>3T / Khaki</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/4332378128465</id>
+    <published>2019-10-29T13:11:36-04:00</published>
+    <updated>2019-10-29T13:11:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/ribbed-baby-stockings"/>
+    <title>Ribbed Baby Stockings</title>
+    <s:type></s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/ribbed-baby-stockings-brown.jpg?v=1572370347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These Ribbed Baby Stockings are a fashionista's dream come true. Wear these trendy leg huggers under your favorite skirt or shorts for an adorable look that is sure to make surrounding mommas and babies envious of her fashion forward ensemble. Our Ribbed Baby Stockings make for a comfortable solution that provides both warmth, style, and a level of fashion diversity like no other. Make these Ribbed Baby Stockings a new tool in your mini's wardrobe belt today!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Socks</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4332378128465</id>
+      <title>6-9 Months / Yellow</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4332378128465</id>
+      <title>6-9 Months / Brown</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4332378128465</id>
+      <title>9-12 Months / Yellow</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4332378128465</id>
+      <title>9-12 Months / Brown</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4332378128465</id>
+      <title>12-16 Months / Yellow</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4332378128465</id>
+      <title>12-16 Months / Brown</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4332378128465</id>
+      <title>16-20 Months / Yellow</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4332378128465</id>
+      <title>16-20 Months / Brown</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4332378128465</id>
+      <title>20-24 Months / Yellow</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4332378128465</id>
+      <title>20-24 Months / Brown</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4332378128465</id>
+      <title>2T / Yellow</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4332378128465</id>
+      <title>2T / Brown</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4332378128465</id>
+      <title>3T / Yellow</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4332378128465</id>
+      <title>3T / Brown</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4332378128465</id>
+      <title>4T / Yellow</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/4332378128465</id>
+      <title>4T / Brown</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926216704042</id>
+    <published>2019-07-09T21:49:53-04:00</published>
+    <updated>2019-07-09T21:49:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/southern-belle-baby-girl-socks"/>
+    <title>Southern Belle Baby Girl Socks</title>
+    <s:type>Baby Socks</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p109_i1_w768.jpg?v=1562723454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Socks<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="color:rgb(34,34,34);">These adorable Southern Belle Baby Girl Socks will knock your socks off. The cotton and spandex material are perfect for a fresh and trendy feel. These high socks are truly beautiful. Solid color with an open designer pattern these baby socks are unique and timeless. We are sure you will love them as much as we do!</span><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Socks</s:tag>
+    <s:tag>Out of Stock</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926216704042</id>
+      <title>0-24 Months</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>SKU--109</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926216605738</id>
+    <published>2019-07-09T21:49:45-04:00</published>
+    <updated>2019-07-09T21:49:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/manhattan-baby-socks"/>
+    <title>Manhattan Baby Socks</title>
+    <s:type>Baby Socks</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p111_i1_w768.jpg?v=1562723446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Socks<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These Manhattan Baby Socks are great quality and very cute. They are soft and come in multiple colors for your taste and style. The cotton blend material is absorbent and will keep your baby feeling fresh. These gorgeous Manhattan baby knee high socks are sure to be a favorite!<br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Socks</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926216605738</id>
+      <title>0-24 Months / Gray</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>SKU--111</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926216605738</id>
+      <title>0-24 Months / Pink</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>SKU--111</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926216605738</id>
+      <title>0-24 Months / Black</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>SKU--111</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926216605738</id>
+      <title>0-24 Months / Khaki</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>SKU--111</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926216605738</id>
+      <title>0-24 Months / White</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>SKU--111</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926216605738</id>
+      <title>2T-3T / Gray</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>SKU--111</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926216605738</id>
+      <title>2T-3T / Pink</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>SKU--111</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926216605738</id>
+      <title>2T-3T / Black</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>SKU--111</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926216605738</id>
+      <title>2T-3T / Khaki</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>SKU--111</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926216605738</id>
+      <title>2T-3T / White</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>SKU--111</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926214410282</id>
+    <published>2019-07-09T21:47:50-04:00</published>
+    <updated>2019-07-09T21:47:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/garnet-baby-stockings"/>
+    <title>Garnet Baby Stockings</title>
+    <s:type>Baby Socks</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p151_i1_w768.jpg?v=1562723296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Socks<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">These Garnet Baby Stockings are the perfect tool for your little sunshine's versatile wardrobe. Mix &amp; match on the go! Long, high cut for that classy &amp; sassy look!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Socks</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926214410282</id>
+      <title>0-24 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--151</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926214410282</id>
+      <title>9-12 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--151</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926214410282</id>
+      <title>12-16 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--151</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926214410282</id>
+      <title>16-20 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--151</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926214410282</id>
+      <title>20-24 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--151</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926214410282</id>
+      <title>2T</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--151</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926212182058</id>
+    <published>2019-07-09T21:45:19-04:00</published>
+    <updated>2019-07-09T21:45:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/high-prep-baby-socks"/>
+    <title>High Prep Baby Socks</title>
+    <s:type>Baby Socks</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p182_i2_w768.jpg?v=1562723142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Socks<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These elite styled beauties come in a variety of colors that match the sass and flare of each pair. The adorable and perfectly placed bow on the outer side of the sock is a wonderful and gorgeous feature. These High Prep Baby Girl Socks will be all the accessory she needs to be the IT fashionista! We are absolutely in love with them and know you will adore them as well.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Socks</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926212182058</id>
+      <title>0-24 Months / Black</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>SKU--182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926212182058</id>
+      <title>0-24 Months / Grey</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>SKU--182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926212182058</id>
+      <title>0-24 Months / White</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>SKU--182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926212182058</id>
+      <title>0-24 Months / Garnet</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>SKU--182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926212182058</id>
+      <title>0-24 Months / Pink</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>SKU--182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926210576426</id>
+    <published>2019-07-09T21:43:23-04:00</published>
+    <updated>2019-07-09T21:43:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/fox-socks"/>
+    <title>Fox Socks</title>
+    <s:type>Baby Socks</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p210_i1_w768.jpg?v=1562723024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Socks<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These super fun and trendy Fox Socks are too adorable to not own. These cuties will bring fun and fashion together for a good time. So don’t worry, be foxy! In a neutral yet stylish agreeable grey, pair these little babes with bloomers or any other favorite go to outfit for an easy and perfect combo. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Socks</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926210576426</id>
+      <title>0-24 Months / Gray</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>SKU--210</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926210576426</id>
+      <title>0-24 Months / Brown</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>SKU--210</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926205071402</id>
+    <published>2019-07-09T21:37:55-04:00</published>
+    <updated>2019-07-09T21:37:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/academy-baby-socks"/>
+    <title>Academy Baby Socks</title>
+    <s:type>Baby Socks</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p281_i3_w768.jpg?v=1562722704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Socks<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These Academy Baby Socks are just the cutest, if we do say so ourselves! Colorful and playful they can easily dress up any outfit. Not only are the modern and trendy but oh so comfy. We just know your sweet little babe will have some relaxed little toes. We hope you and your little or littles, love these as much as we do! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Socks</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926205071402</id>
+      <title>White</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--281</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926205071402</id>
+      <title>Gray</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--281</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926205071402</id>
+      <title>Black</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--281</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926205005866</id>
+    <published>2019-07-09T21:37:53-04:00</published>
+    <updated>2019-07-09T21:37:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/smitten-baby-socks"/>
+    <title>Smitten Baby Socks</title>
+    <s:type>Baby Socks</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p282_i2_w768.jpg?v=1562722697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Socks<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Simply perfection. These adorable highSmitten Baby Socks are trendy and we can totally see why. Playful eyes and whiskers are irresistible. As parents we always want our kids dressed as cute as they are but seriously, can these come in our size too? Pair with their/your favorite dress, shorts, skirt, romper... you name it, these socks will be a perfect match. Keep them styling with these Smitten Baby Socks, you will surely love this purchase. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Socks</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926205005866</id>
+      <title>0-24 Months</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--282</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926205005866</id>
+      <title>2T-3T</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--282</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926201729066</id>
+    <published>2019-07-09T21:34:18-04:00</published>
+    <updated>2019-07-09T21:34:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/baby-stockings"/>
+    <title>Baby Stockings</title>
+    <s:type>Baby Socks</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p322_i1_w768.jpg?v=1562722490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Socks<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>What’s not to love about these super trendy Baby Stockings? We love how versatile stockings are, use them to keep your fashionista warm on cooler days, or for a nice style change to keep things looking different. We adore these and love getting to bring you as many options as possible! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby Girl Pants</s:tag>
+    <s:tag>Baby Socks</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926201729066</id>
+      <title>6-9 Months / Gray</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>5436</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926201729066</id>
+      <title>9-12 Months / Gray</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>5436</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926201729066</id>
+      <title>9-12 Months / Black</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>5438</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926201729066</id>
+      <title>9-12 Months / White</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>5437</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926201729066</id>
+      <title>12-16 Months / Gray</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>5436</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926201729066</id>
+      <title>12-16 Months / Black</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>5438</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926201729066</id>
+      <title>12-16 Months / White</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>5437</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926201729066</id>
+      <title>16-20 Months / Gray</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>5436</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926201729066</id>
+      <title>16-20 Months / Black</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>5438</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926201729066</id>
+      <title>16-20 Months / White</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>5437</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926201729066</id>
+      <title>20-24 Months / Gray</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>5436</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926201729066</id>
+      <title>20-24 Months / Black</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>5438</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926201729066</id>
+      <title>20-24 Months / White</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>5437</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926201729066</id>
+      <title>2T / Gray</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>5436</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926201729066</id>
+      <title>2T / Black</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>5438</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926201729066</id>
+      <title>2T / White</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>5437</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926201729066</id>
+      <title>6-9 Months / White</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>5437</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926201729066</id>
+      <title>6-9 Months / Black</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>5438</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betterbabyboutique.com/products/3926199664682</id>
+    <published>2019-07-09T21:31:03-04:00</published>
+    <updated>2019-07-09T21:31:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betterbabyboutique.com/products/little-swan-baby-sock"/>
+    <title>Little Swan Baby Sock</title>
+    <s:type>Baby Socks</s:type>
+    <s:vendor>Better Baby Boutique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2587/9172/products/s905524150898975867_p348_i1_w768.jpg?v=1562722300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Better Baby Boutique<br>
+        <strong>Type: </strong>Baby Socks<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sweet and cute is a good place to start when describing these absolute cuties! Stylish and trendy, our Little Swan Baby Socks are a statement piece for sure! We know you will love the way they add a little extra umph to your mini's outfit. She will surely find them adorable as well! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Baby Socks</s:tag>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926199664682</id>
+      <title>0-24 Months / Evergreen</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--348</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926199664682</id>
+      <title>0-24 Months / Mauve</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--348</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betterbabyboutique.com/products/3926199664682</id>
+      <title>0-24 Months / Mustard</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SKU--348</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
